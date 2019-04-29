@@ -1,0 +1,311 @@
+{
+	"isNumbered": true,
+	"tableName": "Quest Rewards",
+	"sourceUrl": "http://dndspeak.com/2017/12/100-quest-rewards/",
+	"entries": [{
+			"n": 1,
+			"desc": "A telescopic eyepiece made of gold and sapphires."
+		}, {
+			"n": 2,
+			"desc": "A fine leather backpack."
+		}, {
+			"n": 3,
+			"desc": "A map leading to buried treasure."
+		}, {
+			"n": 4,
+			"desc": "A stone that can summon a celestial/ elemental/ corruptor. Their strength and how many times you get to use it is determined by the difficulty of the quest."
+		}, {
+			"n": 5,
+			"desc": "A quiver that dispenses beer."
+		}, {
+			"n": 6,
+			"desc": "A map with the location of a portal to the Valley of Shadows."
+		}, {
+			"n": 7,
+			"desc": "Some dragon scales. Enough to make a piece of armor, if you find the right person to do that."
+		}, {
+			"n": 8,
+			"desc": "2d20 homing arrows."
+		}, {
+			"n": 9,
+			"desc": "The basic D&amp;D books, plus the questgiver promises to play with the party anytime they want."
+		}, {
+			"n": 10,
+			"desc": "A piano. Whether the questgiver will help the party move it or not depends on their alignment."
+		}, {
+			"n": 11,
+			"desc": "A single wish spell scroll, except you can only wish for food."
+		}, {
+			"n": 12,
+			"desc": "A cursed flaming sword, that does wonderful slashing damage plus fire damage, but also slowly turns the user\u2019s arms into hair fibres. Whether the questgiver knew about this or not depends on their alignment."
+		}, {
+			"n": 13,
+			"desc": "A potion of invisibility. When you drink all of it, though, you not only become invisible, but also emit a constant loud screaming sound for the duration."
+		}, {
+			"n": 14,
+			"desc": "Dwarven Cigars and a box of snuff."
+		}, {
+			"n": 15,
+			"desc": "A box of fireworks."
+		}, {
+			"n": 16,
+			"desc": "Four Goats."
+		}, {
+			"n": 17,
+			"desc": "A small stone coffer with gold coins inside. Some geometrical carvings on the sides and scribblings on the floor of the coffer can lead to a greater treasure if you resolve the enigma."
+		}, {
+			"n": 18,
+			"desc": "A free haircut."
+		}, {
+			"n": 19,
+			"desc": "A stack of furs and skins."
+		}, {
+			"n": 20,
+			"desc": "A bodyguard, loyal to the death."
+		}, {
+			"n": 21,
+			"desc": "A wiggly jiggly sphere of a seemingly indestructible opaque substance that gives the quest giver the willies. Glad to be rid of it he tries to bury it in any actual loot bag. Any food or liquid stored in same container disappears. Given enough food, the orb eventually hatches into a player-friendly black ooze."
+		}, {
+			"n": 22,
+			"desc": "A five minute run through a treasure trove. The problem is the treasure is stored piecemeal in ceramic magic resistant pots that have to be smashed to open. Each pot will cary only one item or a handful of coins."
+		}, {
+			"n": 23,
+			"desc": "A bard\u2019s favor: they will sing the player\u2019s praises and eventually create a serious work of art: a saga, play, or novel. The truth of these works will depend entirely on how much the players are willing to tell said bard."
+		}, {
+			"n": 24,
+			"desc": "A single golden coin with an unfamiliar emblem, approximately palm sized. Little do you know, it is enchanted by a local group of bandits to give them your location and they will strike at the worst time."
+		}, {
+			"n": 25,
+			"desc": "The deed to a tavern, which was owned by a family for generations until it was recently reposessed by the local government \u2013 its original owner will most likely approach you looking for charity."
+		}, {
+			"n": 26,
+			"desc": "Entrance to/advancement in a guild or secret society."
+		}, {
+			"n": 27,
+			"desc": "Free healing for life."
+		}, {
+			"n": 28,
+			"desc": "Discounted purchases for life."
+		}, {
+			"n": 29,
+			"desc": "A single pet for the party."
+		}, {
+			"n": 30,
+			"desc": "A small pouch full of magic crystals. Crushing one of the crystals gives you unlimited use of a random cantrip for an hour. The pouch contains 15 crystals."
+		}, {
+			"n": 31,
+			"desc": "Free meals and a room at a local inn for life."
+		}, {
+			"n": 32,
+			"desc": "A house in the upper class parts of town. (It\u2019s free real estate)"
+		}, {
+			"n": 33,
+			"desc": "Free booze for life from the local brewery."
+		}, {
+			"n": 34,
+			"desc": "A magical basket of endless breadsticks."
+		}, {
+			"n": 35,
+			"desc": "An old spellbook owned by a distant relative. One random warlock spell of 3rd level or lower can be learned by reading the book."
+		}, {
+			"n": 36,
+			"desc": "A glass eye with some questionable stains on it."
+		}, {
+			"n": 37,
+			"desc": "A pat on the back."
+		}, {
+			"n": 38,
+			"desc": "A cracked goblin-skull the questgiver assures you is an ancient and precious family heirloom."
+		}, {
+			"n": 39,
+			"desc": "A small, abandoned estate in the countryside with a rampant Ankheg infestation."
+		}, {
+			"n": 40,
+			"desc": "A cursed ring that is frozen to the wielder\u2019s hand. The ice melts for 5 minutes every time the wielder deceives someone."
+		}, {
+			"n": 41,
+			"desc": "The jawbone of a Lich, studded with jewels and gold, and can be made to cast a random verbal spell once per day."
+		}, {
+			"n": 42,
+			"desc": "A freshly-baked pie."
+		}, {
+			"n": 43,
+			"desc": "A laurel wreath each."
+		}, {
+			"n": 44,
+			"desc": "A badge of favour which will let guards, merchants and soldiers know that you have my blessing. (Benefits and penalties of this and the geographic area it covers will vary greatly depending on the patron!)"
+		}, {
+			"n": 45,
+			"desc": "1sp (a symbolic payment like the king\u2019s shilling) and my undying gratitude."
+		}, {
+			"n": 46,
+			"desc": "A small glass trophy obelisk engraved with \u201c[Patron]\u2019s [Litch/Dragon/Goblin/key adventure goal] quest party member [date]\u201d full fill in the blanks e.g. King Arthur\u2019s Grail quest party member 983AD."
+		}, {
+			"n": 47,
+			"desc": "A case of finest elven wine."
+		}, {
+			"n": 48,
+			"desc": "A pure silver decorative sword/wand/dagger/quiver."
+		}, {
+			"n": 49,
+			"desc": "A portrait painted by my personal artist with copies disseminated far and wide."
+		}, {
+			"n": 50,
+			"desc": "New mounts for all. They are well bred and valuable noble steeds. Slightly faster when galloping, unphased by noise even battle but a little picky about lots of packs and their food and accommodation. Come with saddles and tack etc with the patrons livery."
+		}, {
+			"n": 51,
+			"desc": "The hand of one of the patrons children in marriage, to the team leader as perceived by the patron."
+		}, {
+			"n": 52,
+			"desc": "A beautiful delicate porcelain tea cup each. Fabulous for exquisite tea parties and keeping in the display cabinet. Unlikely to survive 5 mins in bottom of backpack."
+		}, {
+			"n": 53,
+			"desc": "A Psychic rock that is in fact, just a rock."
+		}, {
+			"n": 54,
+			"desc": "The deed to a haunted house."
+		}, {
+			"n": 55,
+			"desc": "A large sack of gold coins that disappear by the end of the week."
+		}, {
+			"n": 56,
+			"desc": "An exotic weapon that humans rarely use."
+		}, {
+			"n": 57,
+			"desc": "A sending stone that allows the PC to communicate with the quest giver once per day."
+		}, {
+			"n": 58,
+			"desc": "A coupon to a fancy adventurers supply store."
+		}, {
+			"n": 59,
+			"desc": "A large brown sack of gems. Wait.. these look like regular rocks that were painted."
+		}, {
+			"n": 60,
+			"desc": "1d100 gold pieces."
+		}, {
+			"n": 61,
+			"desc": "A weapon of great craftsmanship. Little does the party know, it\u2019s haunted."
+		}, {
+			"n": 62,
+			"desc": "Potion of Levitate: a silver potion contained in a stoppered bone cup. The potion smells like caraway and tastes horrible."
+		}, {
+			"n": 63,
+			"desc": "An expertly crafted light lance made of walnut and tipped with steel. The handle is wrapped in boar hide."
+		}, {
+			"n": 64,
+			"desc": "Three smooth ingots of Elvish electrum. Each one is worth as much as 40 gold, if you can find a buyer. Most likely you\u2019ll have to accept about half that price."
+		}, {
+			"n": 65,
+			"desc": "A box of a matchsticks. When a match is struck it releases puffs of lingering smoke that take on the shapes of humanoid faces, animals, and lofty towers."
+		}, {
+			"n": 66,
+			"desc": "A teapot made of semi-opaque brown glass: it is said to be a scrying focus that can impart guidance and inspiration to its owner."
+		}, {
+			"n": 67,
+			"desc": "A barrel of bitumen."
+		}, {
+			"n": 68,
+			"desc": "A gem of teleportation: A little glowing gem. With it, you can cast the spell misty steps once a day."
+		}, {
+			"n": 69,
+			"desc": "The pouch of cookies: A pouch that can magically make appear a cookie of your choice(except raisins). With it, you can summon 1 ration of food a day."
+		}, {
+			"n": 70,
+			"desc": "A pouch of gnome tobacco: A pouch of rare Maryja tobacco, very appreciate by gnomes and halflings. There is enough for 10 uses. When you smoke it, you become poison for 6 hours, but you gain advantage to wisdom saving throw."
+		}, {
+			"n": 71,
+			"desc": "A sense of accomplishment."
+		}, {
+			"n": 72,
+			"desc": "A boomerang that ALWAYS comes back."
+		}, {
+			"n": 73,
+			"desc": "The realization that the real treasure was the friends you made along the way."
+		}, {
+			"n": 74,
+			"desc": "A bobsled."
+		}, {
+			"n": 75,
+			"desc": "A treasure map leading to an even greater treasure."
+		}, {
+			"n": 76,
+			"desc": "A gnome who has no idea what\u2019s going on."
+		}, {
+			"n": 77,
+			"desc": "A skull that will provide moral support."
+		}, {
+			"n": 78,
+			"desc": "A shield fashioned out of the shoulder blade of a large creature."
+		}, {
+			"n": 79,
+			"desc": "The best poem the PC\u2019s have ever seen."
+		}, {
+			"n": 80,
+			"desc": "An unbreakable mortar and pestle."
+		}, {
+			"n": 81,
+			"desc": "A mysterious gummy berry-flavored substance that turns the chewer blue."
+		}, {
+			"n": 82,
+			"desc": "A black dragon\u2019s tooth."
+		}, {
+			"n": 83,
+			"desc": "Bag of Beholding. It\u2019s a bag full of angry bickering Beholders."
+		}, {
+			"n": 84,
+			"desc": "A magic flying carpet. Can be used as a mount."
+		}, {
+			"n": 85,
+			"desc": "Cold-weather clothing."
+		}, {
+			"n": 86,
+			"desc": "A barrel of ale."
+		}, {
+			"n": 87,
+			"desc": "A musical instrument of great craftsmanship. This instrument has been passed down in the quest-giver\u2019s family for generations. The quest-giver hates music."
+		}, {
+			"n": 88,
+			"desc": "An unhatched dragon egg, color to be determined by GM."
+		}, {
+			"n": 89,
+			"desc": "An oil painting of the entire party (if they are willing to pose for it)."
+		}, {
+			"n": 90,
+			"desc": "A magical necklace that has the seal of a foreign kingdom on it. The necklace has the ability to identify magic within 60ft of its wearer."
+		}, {
+			"n": 91,
+			"desc": "Clean matching cloaks for the party. One is a cloak of billowing from Xanathar\u2019s."
+		}, {
+			"n": 92,
+			"desc": "The quest-giver offers to sell the party a house in town at a great discount."
+		}, {
+			"n": 93,
+			"desc": "A grand party in their honor."
+		}, {
+			"n": 94,
+			"desc": "Spoon of Cooking: When held, make a DC 12 will save or be dominated to make a delicious meal out of materials currently available to you."
+		}, {
+			"n": 95,
+			"desc": "An ice sculpture made out of you."
+		}, {
+			"n": 96,
+			"desc": "A spell book that the quest giver stole from a powerful wizard. Will the wizard come looking for it?"
+		}, {
+			"n": 97,
+			"desc": "A kobold butler that will do the party\u2019s bidding."
+		}, {
+			"n": 98,
+			"desc": "1d4 Potions of Healing"
+		}, {
+			"n": 99,
+			"desc": "A powerful ally in the town. The quest-giver will act as a source of information for the players."
+		}, {
+			"n": 100,
+			"desc": "Another quest.\t"
+		}
+	],
+	"version": 1,
+	"createdBy": "dndspeak",
+	"category": ["quests"],
+	"source": "dndspeak"
+}

@@ -1,0 +1,311 @@
+{
+	"category": ["conditions"],
+	"createdBy": "dndspeak",
+	"isNumbered": true,
+	"entries": [{
+			"desc": "Upon reaching 0 HP, you lose 1d4 teeth.",
+			"n": 1
+		}, {
+			"desc": "You break your left leg.",
+			"n": 2
+		}, {
+			"desc": "You hit your head on the way down, -1 INT.",
+			"n": 3
+		}, {
+			"desc": "One of your lungs collapses. You take 1 point of exhaustion and cannot make an athletics roll without taking another.",
+			"n": 4
+		}, {
+			"desc": "When you open your eyes again, your eyes sting and your vision feels wrong. You take -5 to all ranged attack rolls.",
+			"n": 5
+		}, {
+			"desc": "Your nerves are shot, for 1d4+ 3 days, you feel no pain and the DM trackes your health without your knowledge",
+			"n": 6
+		}, {
+			"desc": "You suffer from flashbacks.",
+			"n": 7
+		}, {
+			"desc": "When a fellow pc falls to 0 hp within your line of sight, roll 1d4. 1 and 2: no effect. 3: player enters a barbarian rage regardless of class for 1d4 rounds. 4: player enters a memory trance and is unresponsive for 1d4 rounds.",
+			"n": 8
+		}, {
+			"desc": "You've been close to death before, but this time was one too many. The next time you roll initiative in combat you must succeed on a DC 14 Wisdom saving throw or drop whatever you are holding and become Frightened for one minute.",
+			"n": 9
+		}, {
+			"desc": "Corpse explosion.",
+			"n": 10
+		}, {
+			"desc": "The player suffers 1d4+1 levels of exhaustion",
+			"n": 11
+		}, {
+			"desc": "The blade sliced across your face leaving a nasty, ugly scar. -1 charisma.",
+			"n": 12
+		}, {
+			"desc": "The final blow blew a hole through your armour. It now has -1 AC.",
+			"n": 13
+		}, {
+			"desc": "Upon waking, the player is confused for 1d4 hours.",
+			"n": 14
+		}, {
+			"desc": "Shrapnel in the heart - A slither of metal broke away from the blade that knocked you unconscious. -1 to Death Saving Throws.",
+			"n": 15
+		}, {
+			"desc": "The reaper (or other death entity) takes pity on you and allows you to live. However takes your soul as payment.",
+			"n": 16
+		}, {
+			"desc": "Lose any sense of morality. If the player or party prefers the charecter can still make what they think are moral decisions. Essentially basing it off of what they remember morality being like.",
+			"n": 17
+		}, {
+			"desc": "You start to limp. Your walking speed is permanently reduced by 5 ft.",
+			"n": 18
+		}, {
+			"desc": "Your hands are crushed. Lose any proficiency with Sleight of Hand checks and any stringed instruments.",
+			"n": 19
+		}, {
+			"desc": "Minor amnesia. You forget one cantrip you know, or one language if you have no cantrips.",
+			"n": 20
+		}, {
+			"desc": "Your whole body is in pain, making it difficult to sleep. Treat the next Long Rest you take as if it were a Short Rest.",
+			"n": 21
+		}, {
+			"desc": "You permanently injure your right leg. You walk with a limp from now on. -5 ft. walking speed, -10 ft. running speed. (Or both are halved? Your call.)",
+			"n": 22
+		}, {
+			"desc": "You suffer permanent hearing damage in your left ear due to head injury.",
+			"n": 23
+		}, {
+			"desc": "Whenever you go to sleep, roll a D8. If you roll a 1, you have traumatic nightmares and do not gain the benefits of sleep. (To make this meaner: roll a D8 again. If it lands on 1 the second time, gain one level of exhaustion unless the new exhaustion level would kill you.)",
+			"n": 24
+		}, {
+			"desc": "Player loses a thumb. Disadvantage on one handed melee attacks with that hand.",
+			"n": 25
+		}, {
+			"desc": "You lose 1d4 fingers.",
+			"n": 26
+		}, {
+			"desc": "The scar tissue makes you tougher, +1 to AC, -1 to dexterity.",
+			"n": 27
+		}, {
+			"desc": "You gain a new flaw: \u201dI have become addicted to the thrill of danger, being close to death is the only thing that makes me feel alive.\u201d",
+			"n": 28
+		}, {
+			"desc": "You muscle tissue is permanently damaged. -2 to strength.",
+			"n": 29
+		}, {
+			"desc": "A large and deep scar on the player\u2019s back.",
+			"n": 30
+		}, {
+			"desc": "One eye loses all sight and falls out.",
+			"n": 31
+		}, {
+			"desc": "A permanent bruise lays in the center of the player\u2019s chest.",
+			"n": 32
+		}, {
+			"desc": "Both arms break badly.",
+			"n": 33
+		}, {
+			"desc": "Tear your hamstring . -1 to initiative",
+			"n": 34
+		}, {
+			"desc": "Back spasms. Str -1.",
+			"n": 35
+		}, {
+			"desc": "The wound seriously messes up something deep inside you. You have disadvantage on death saves until you are healed by powerful magic.",
+			"n": 36
+		}, {
+			"desc": "Death is angered by you coming so close to him and surviving, and warns you in a vision that the next time you come close to death, he will take your soul.",
+			"n": 37
+		}, {
+			"desc": "Blow to the head - wake up speaking another language, have to re-learn common.",
+			"n": 38
+		}, {
+			"desc": "Character develops a phobia of the weapon or damage type that put it down.",
+			"n": 39
+		}, {
+			"desc": "Hit legs or feet - reduced movement speed after getting up.",
+			"n": 40
+		}, {
+			"desc": "Revenge from beyond - character will only attack the baddie that took him down (if still up).",
+			"n": 41
+		}, {
+			"desc": "A malevolent spirit catches you as you fall. You are possessed.",
+			"n": 42
+		}, {
+			"desc": "An ancient prophecy is revealed. As you fall, you see it's mechinations in action. As you sleep, more may be revealed.",
+			"n": 43
+		}, {
+			"desc": "Player carries a permanant scar at the point of injury.",
+			"n": 44
+		}, {
+			"desc": "You will never be able to sleep well again, roll a d4 every long rest - if the result is 4, you don't recover hp.",
+			"n": 45
+		}, {
+			"desc": "You gain the tattoo of whoever/whatever brought you to 0 hp.",
+			"n": 46
+		}, {
+			"desc": "Your spine takes a crushing hit. You are paralyzed from the waist down. Your speed drops to 5 and you are considered prone.",
+			"n": 47
+		}, {
+			"desc": "You stop breathing and cannot making saving throws. You need to be stabilized before 1d4+1 rounds.",
+			"n": 48
+		}, {
+			"desc": "You subsequently have vivid/intrusive flashbacks to this moment.",
+			"n": 49
+		}, {
+			"desc": "You suffer from immense guilt until you make amends with someone you wronged.",
+			"n": 50
+		}, {
+			"desc": "You are possessed until a special ceremony is performed.",
+			"n": 51
+		}, {
+			"desc": "You are linked to the creature who brought you to 0 HP. The pain it suffers is split between you both for 1d4 rounds.",
+			"n": 52
+		}, {
+			"desc": "You gain one weakness of the creature who brought you to 0 HP.",
+			"n": 53
+		}, {
+			"desc": "No physical side-effects, but you gain an unhealthy emotional obsession with the person who saved you.",
+			"n": 54
+		}, {
+			"desc": "You suffer from intense dizziness, and must make a DC 10 saving throw or fall prone.",
+			"n": 55
+		}, {
+			"desc": "You receive mild tinnitus, and get disadvantage for 1d4 hours on aural perception checks.",
+			"n": 56
+		}, {
+			"desc": "As you fall unconscious, a strange, black, eldritch symbol flashes above your chest, though you do not see it.",
+			"n": 57
+		}, {
+			"desc": "A rich, deep, velvety voice begins to seep through your mind like water through a sponge, offering you comfort and good advice. It eventually begins to suggest that you obtain women to follow you around, which you may provide the services of in exchange for currency. The voice makes these suggestions in the most reasonable ways it can to start, but begins to grow more urgent the longer you go without \u201cpimping\u201d out a woman, though it will never suggest doing anything that is less than effective at achieving it\u2019s desires.",
+			"n": 58
+		}, {
+			"desc": "Skin begins to flake off of you with alarming frequency, resulting in you having perpetually loose and sensitive skin. You now feel changes in temperature more extremely, and sheds your skin at an unnatural rate when brought close to 0 HP.",
+			"n": 59
+		}, {
+			"desc": "You experience a minor reversal in the way your brain works, resulting in you switching which hand is your dominant hand. If you are ambidextrous, roll a 1d3 to determine which hand is your dominant one: 1: Your right hand. 2: Your left hand. 3: Neither hand, you have no dominant hand and are equally awkward with both of them.",
+			"n": 60
+		}, {
+			"desc": "You partially lose your sense of taste and smell, making every flavor resemble rot and every scent smell of decay. This is the case for every scent and taste except for all things festering and putrid, which smell like fresh meals and taste like gourmet delicacies.",
+			"n": 61
+		}, {
+			"desc": "Severe damage to the nether regions. No stat loss, you just feel sad.",
+			"n": 62
+		}, {
+			"desc": "You manage to cauturize the wound on your foot but lose a toe. You now forever have an insistent phantom itch where your toe used to be but no toe to scratch. You wonder if Hell would\u2019ve been worse.",
+			"n": 63
+		}, {
+			"desc": "You manage to survive but your spine remains stiff and sore. You now have to drag along a soft matress or pay for a decent inn to have a Long Rest.",
+			"n": 64
+		}, {
+			"desc": "The wound on your head has healed but has left a large circular scar on your scalp where no hair will grow. Everyone now believes you\u2019re a monk.",
+			"n": 65
+		}, {
+			"desc": "You\u2019ve suffered a blow to the head and got a concussion. You have bouts of madness which leave you temporarily and unpredictably incapacitated (1d4 turns) until you\u2019ve had a Long Rest.",
+			"n": 66
+		}, {
+			"desc": "Anawn, God of Death has come to claim your soul. You manage to bribe him with a kitten and live to tell the tale. Next time any character dies you see Death wave to you smiling with a kitten on his arm.",
+			"n": 67
+		}, {
+			"desc": "You manage to dodge a blow/spell that would\u2019ve killed you, but it catches your backpack instead and destroys a random item (roll a die).",
+			"n": 68
+		}, {
+			"desc": "The wound you\u2019ve acquired remains painful and you\u2019ve become addicted to pain killers. Each healing potion leaves you with -1 Dex for one hour.",
+			"n": 69
+		}, {
+			"desc": "Ringing ears, you are deaf for 1d4 rounds.",
+			"n": 70
+		}, {
+			"desc": "The burn/ice/poison/acid damage to your skin has caused permanent discoloration in your complexion. -2 CHA",
+			"n": 71
+		}, {
+			"desc": "Your life being spared has made you into a religious person ~or~ your brush with death has made you bitter and you turn your back on your god.",
+			"n": 72
+		}, {
+			"desc": "For 1d4 days, you fight your wound from gangrenous infection with Medicine checks by you or an ally. If any check fails, you must remove a part of the limb the infection is located.",
+			"n": 73
+		}, {
+			"desc": "To reach your wounds, your allies need to cut away your clothing. You are now naked.",
+			"n": 74
+		}, {
+			"desc": "Your armour is badly damaged, but salvageable. It cannot be worn again until repaired.",
+			"n": 75
+		}, {
+			"desc": "In the cusp of death and in the heat of battle, you later find that you lost your weapon at the site of the battle. DMs should not inform the PC of this effect until the next time they try and use the weapon.",
+			"n": 76
+		}, {
+			"desc": "You come away mostly unharmed, but you have lost the ability to use your genitalia in sexual manner.",
+			"n": 77
+		}, {
+			"desc": "You have lost an identifying characteristic of your race:",
+			"n": 78
+		}, {
+			"desc": "Elf, Half-Elf, Gnome - The tops of your ears have been lost and are rounded as a humans. . Dwarf - Your beard has been lost and the skin has been damaged in a way that it cannot grow back. . Half-Orc - You have lost your lower fangs. . Dragonborn - You lose all or part of your tail. . Tiefling - You lose all or part of your tail ~or~ all or part of one of your horns has broken off or shattered. . Halfling, Human - You get off scott-free and comment that if you were X, you'd have lost your X.",
+			"n": 79
+		}, {
+			"desc": "The glow in your eyes have faded. You no longer have darkvision if it was granted your race.",
+			"n": 80
+		}, {
+			"desc": "You have lost attunement with your weapon/armor/etc. (pick one).",
+			"n": 81
+		}, {
+			"desc": "By some very low and unlikely chances, a creature flying overhead defecates into your mouth while you lay unconscious. Everything tastes bitter and terrible for the next 2d8 days.",
+			"n": 82
+		}, {
+			"desc": "Your wounds have you cough up blood as you lay unconscious. You automatically lose 1 death save as you struggle to breath.",
+			"n": 83
+		}, {
+			"desc": "Having the life knocked out of you caused a bowel movement. You smell terrible, your pants are horribly soiled, and you get a -3 to all your CHA saves until you are properly cleaned up.",
+			"n": 84
+		}, {
+			"desc": "Your magical energy has drained from you. You now have a -1 to your spell save dc until you can spend >8 hours of meditation in a holy place.",
+			"n": 85
+		}, {
+			"desc": "Minor amnesia. You forget who your other party members are and why you're even on this quest.",
+			"n": 86
+		}, {
+			"desc": "The attack melted/broke 4d20% of the coin you had on you.",
+			"n": 87
+		}, {
+			"desc": "You just don't feel right, as if you need to retrain your worn body to get back into the flow of things. You lost (Level*500) XP.",
+			"n": 88
+		}, {
+			"desc": "A soothing wound that threatens to poison your blood for 5 days if not tended to daily with a dc of 15 on medicine. If poisoned ( after two fails to sterilize wound) you get sick and lose 1d4 max hp each day until the wound has been healed.",
+			"n": 89
+		}, {
+			"desc": "Necrotic wound - if not healed by powerful holy magic your wound starts to damage your nerves, the skin starts to rot away, maggots start to crawl imside it, gets worse over time.",
+			"n": 90
+		}, {
+			"desc": "Near death experience - your character gets the allingment opposite of what he had before, standing on deaths door changed you profoundly.",
+			"n": 91
+		}, {
+			"desc": "Skull fracture - when moving to rapid or fast, the world starts spinning and you will have -2 to all saving throws or skillchecks that involve movement to the point of throwing up. This modifier lasts for 1d10 days unless fully healed by potion or magic. Not with normal resting though.",
+			"n": 92
+		}, {
+			"desc": "You bit off a part of your tongue as you fell, making it harder to speak and giving you a lisp. Disadvantage on Cha skill checks (Deception, Intimidation, Performance &#038; Persuasion) involving speech.",
+			"n": 93
+		}, {
+			"desc": "A blow to your neck has affected the coordination between your left and your right, making it hard to use them effectively again. Disadvantage on attack rolls with two-handed weapons (and 'versatile' weapons being used two-handed). ",
+			"n": 94
+		}, {
+			"desc": "Coming so close to death has affected your ability to remain focused in combat. You must make a DC 10 Con saving throw before casting any spell. A failure may cause a wild magic surge. You go back to normal after a long rest.",
+			"n": 95
+		}, {
+			"desc": "You took nerve damage affecting your ability to move. Moving over 1 feet difficult terrain now costs 3 feet of movement.",
+			"n": 96
+		}, {
+			"desc": "You lose a LOT of blood. Your max HP is reduced by half, but is restored by 10% with every long rest.",
+			"n": 97
+		}, {
+			"desc": "The player\u2019s joints constantly ache.",
+			"n": 98
+		}, {
+			"desc": "The blow sends a shockwave through your right side, ruining your liver. You take a -4 to CON saves to resist poison, and when consuming alcohol the CON check is treated as if you had drank twice as much.",
+			"n": 99
+		}, {
+			"desc": "You have been decapitated. Instant death.",
+			"n": 100
+		}
+	],
+	"version": 1,
+	"tableName": "Zero HP Injuries",
+	"sourceUrl": "http://dndspeak.com/2018/02/100-zero-hp-injuries/",
+	"source": "dndspeak"
+}
