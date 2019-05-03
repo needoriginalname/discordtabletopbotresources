@@ -1,7 +1,7 @@
 {
 	"sourceUrl": "http://dndspeak.com/2018/05/100-travel-complications/",
 	"isNumbered": true,
-	"version": 3,
+	"version": 4,
 	"tableName": "Travel Complications",
 	"entries": [{
 			"n": 1,
@@ -251,7 +251,7 @@
 			"desc": "You notice an abundance of sink holes in the field. Players bust be careful with their footing as well as not grouping up to close together."
 		}, {
 			"n": 83,
-			"desc": "You find two exact similar dwarfs fighting each other with crossbows and taking cover. Both say the other is a doppelg\u00e4nger. None of them is, they’re just lost siblings. One is named Thruduanir and the other is just named Greg."
+			"desc": "You find two exact similar dwarfs fighting each other with crossbows and taking cover. Both say the other is a doppelgänger. None of them is, they’re just lost siblings. One is named Thruduanir and the other is just named Greg."
 		}, {
 			"n": 84,
 			"desc": "A small red skinned creature sits ontop of a rock on the side of the road. It waves to you and implies that it wants to play a game with you, to pass his test to get his higher devil horns. If not, he vanishes. Roll a d6. 1-2 the devil vanishes and leaves a small purse filled with coin, around 10gp.(the coins turn to lead in one hour) 3-4 a group of (appropriate) undead appears and will fight for their souls to be released by the devil. 5-6 a (appropriate) demonic being is brought into existence, will attack the group immediately."
