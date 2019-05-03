@@ -94,7 +94,7 @@
 			"desc": "In the middle of the night, the party's campfire throws off colorful sparks for 1d4 minutes."
 		}, {
 			"n": 32,
-			"desc": "While walking through the wilderness, the party comes across footprints they recognize as their own tracks. The party isn\u2019t wandering in circles, though; the prankster has simply copied or transplanted some footprints from earlier in their journey."
+			"desc": "While walking through the wilderness, the party comes across footprints they recognize as their own tracks. The party isn't wandering in circles, though; the prankster has simply copied or transplanted some footprints from earlier in their journey."
 		}, {
 			"n": 33,
 			"desc": "Cut the tips off your arrows."
@@ -345,7 +345,7 @@
 	],
 	"createdBy": "dndspeak",
 	"isNumbered": true,
-	"version": 2,
+	"version": 3,
 	"sourceUrl": "http://dndspeak.com/2018/05/100-fey-pranks/",
 	"tableName": "Fey Pranks",
 	"source": "dndspeak",

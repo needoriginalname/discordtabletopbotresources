@@ -1,5 +1,5 @@
 {
-	"version": 2,
+	"version": 3,
 	"tableName": "Tavern Encounters",
 	"source": "dndspeak",
 	"createdBy": "dndspeak",
@@ -49,10 +49,10 @@
 			"desc": "A soldier is dressed in plainclothes, watching a deal going on at another table. The disguise is not fooling anyone.",
 			"n": 15
 		}, {
-			"desc": "It\u2019s the annual \u2018Food Frenzy\u2019. For two silver pieces (one of which goes to the house, the other to the pot), participants compete to eat the most meatballs in 10 minutes. There are six heats, and a then final. The winner of the gets the pot.",
+			"desc": "It’s the annual ‘Food Frenzy’. For two silver pieces (one of which goes to the house, the other to the pot), participants compete to eat the most meatballs in 10 minutes. There are six heats, and a then final. The winner of the gets the pot.",
 			"n": 16
 		}, {
-			"desc": "It\u2019s the annual Ferret-legging Endurance competition. In the sport of ferret-legging, competitors tie their trousers at the ankles before placing two ferrets inside and securely fastening their belts to prevent the ferrets from escaping. Each competitor then stands in front of the judges for as long as he can. Competitors cannot be drunk or drugged, nor can the ferrets be sedated. In addition, competitors are not allowed to wear underwear beneath their trousers which must allow the ferrets free access from one leg to the other and the ferrets must have a full set of teeth that must not have been filed or otherwise blunted. The winner is the person who lasts the longest.",
+			"desc": "It’s the annual Ferret-legging Endurance competition. In the sport of ferret-legging, competitors tie their trousers at the ankles before placing two ferrets inside and securely fastening their belts to prevent the ferrets from escaping. Each competitor then stands in front of the judges for as long as he can. Competitors cannot be drunk or drugged, nor can the ferrets be sedated. In addition, competitors are not allowed to wear underwear beneath their trousers which must allow the ferrets free access from one leg to the other and the ferrets must have a full set of teeth that must not have been filed or otherwise blunted. The winner is the person who lasts the longest.",
 			"n": 17
 		}, {
 			"desc": "In the annual Bonny Beard Competition, the most elaborately styled beard, as judged by the patrons, nets the winner a night of free drinks. The losers have to shave their beards off.",
@@ -64,7 +64,7 @@
 			"desc": "A crossbow bolt crashes through the window and strikes a merchant who came to the city from far away.",
 			"n": 20
 		}, {
-			"desc": "You hear an explosion from across the tavern. The blast knocked out a male gnome for 1d6 minutes. Once the gnome wakes up he starts madly raving, saying things like 'I was so close!' and 'that was my last chance.' and 'it\u2019s too late now.'",
+			"desc": "You hear an explosion from across the tavern. The blast knocked out a male gnome for 1d6 minutes. Once the gnome wakes up he starts madly raving, saying things like 'I was so close!' and 'that was my last chance.' and 'it’s too late now.'",
 			"n": 21
 		}, {
 			"desc": "A ventriloquist starts preforming. The puppet looks very old and is wearing clothes that were quite fashionable about a century ago. The performance satirizes current events and culture and has the whole tavern laughing, but if you are observant for about half an hour, whenever the ventriloquist suggests wrapping up the performance the puppet dismisses his concerns. The show goes on for three hours until the puppet is finally satisfied, at which point the ventriloquist is extremely tired and looks terrified.",
@@ -85,22 +85,22 @@
 			"desc": "An old man can be overheard telling a ragtag group of mixed races about a dungeon. After some discussion, and a handshake, he hands them a map.",
 			"n": 27
 		}, {
-			"desc": "An old man challenges you to a game of wizard\u2019s chess. The wooden pieces are enchanted, gesturing and shouting as they fight, though you can\u2019t make out what they say. It is fascinating to watch. The man promises who can win from him will win the chess set, though if you lose, it will not be easy to stop playing. He offers no further explanation. (If you lose, you become a chess piece, trapped in the game).",
+			"desc": "An old man challenges you to a game of wizard’s chess. The wooden pieces are enchanted, gesturing and shouting as they fight, though you can’t make out what they say. It is fascinating to watch. The man promises who can win from him will win the chess set, though if you lose, it will not be easy to stop playing. He offers no further explanation. (If you lose, you become a chess piece, trapped in the game).",
 			"n": 28
 		}, {
 			"desc": "A puritan priest comes in and berates the patrons for their behavior, preaching a path of holiness and purity. The old innkeep tells him 'Yer aff yer heid, ya wee bawface!' and proceeds to flash her boobs at him. The priest flees in horror, muttering protective chants.",
 			"n": 29
 		}, {
-			"desc": "It\u2019s 'Bear Night'. There are mounted bear heads on the wall, bear furs on the chairs and your drinks are served in bear-decorated goblets. After a while you begin to notice the bar is packed exclusively with hairy middleaged men, who are all acting rather familiar with each other...",
+			"desc": "It’s 'Bear Night'. There are mounted bear heads on the wall, bear furs on the chairs and your drinks are served in bear-decorated goblets. After a while you begin to notice the bar is packed exclusively with hairy middleaged men, who are all acting rather familiar with each other...",
 			"n": 30
 		}, {
-			"desc": "There\u2019s a haggis eating competition. Winner gets free whisky till sunrise.",
+			"desc": "There’s a haggis eating competition. Winner gets free whisky till sunrise.",
 			"n": 31
 		}, {
 			"desc": "A scruffy looking man slips something into a drink before returning to the woman at his table.",
 			"n": 32
 		}, {
-			"desc": "It\u2019s a busy night and the bar is packed. Suddenly everyone turns around as several squealing greased pigs are released into the tavern. They have numbers painted on their backs. The staff begins chasing them to much hilarity of the patrons. After a while, they have caught the pigs numbered 1, 2 and 4 but there is no sign of number 3.",
+			"desc": "It’s a busy night and the bar is packed. Suddenly everyone turns around as several squealing greased pigs are released into the tavern. They have numbers painted on their backs. The staff begins chasing them to much hilarity of the patrons. After a while, they have caught the pigs numbered 1, 2 and 4 but there is no sign of number 3.",
 			"n": 33
 		}, {
 			"desc": "All the windows of the Inn slam open as the candle light dims, only to be undone a few moments later. Then a small girl stands and shouts her apologies for the disturbance.",
@@ -163,7 +163,7 @@
 			"desc": "This tavern exists in multiple dimensions, it has at least 20 different doors which connect to the outside world, but as you guessed, different ones. The owner is a mad wizard with the longest and most unkempt beard youve ever seen. Over each of the entries, there is a sign to where it leads. One of the doors is barred and kept shut at all times, the sign reads: dont open, dead inside.",
 			"n": 53
 		}, {
-			"desc": "Tonight\u2019s the local Battle of the Bards, where the prize pool includes a set of fine platinum strings.",
+			"desc": "Tonight’s the local Battle of the Bards, where the prize pool includes a set of fine platinum strings.",
 			"n": 54
 		}, {
 			"desc": "The first batch of beer from the halfling brewery in the next town is very lively. A bit too lively. A tide of hoppy foam bursts from the barrel and up into the bar, showing no signs of slowing down.",
@@ -172,13 +172,13 @@
 			"desc": "After a few drinks, you could swear all the patrons in the bar have the exact same face. You shake your head. Must be the wine.",
 			"n": 56
 		}, {
-			"desc": "The barkeep here has a very literal approach to lock-ins. Sure, you can drink past closing time\u2014as long as you didn't want to leave again, ever.",
+			"desc": "The barkeep here has a very literal approach to lock-ins. Sure, you can drink past closing time—as long as you didn't want to leave again, ever.",
 			"n": 57
 		}, {
 			"desc": "The Tavern menu has a 'Mystery Special'. When ordered it is a large stack of pancakes covered in various fruit that looks like a big smiling face. When eaten the player is reminded of their mother/father/paternal guardian.",
 			"n": 58
 		}, {
-			"desc": "A female drow in common clothes and a big hat (to block the sun) walks into the tavern and an uncomfortable silence ensues. After it is clear that the drow doesn\u2019t want any trouble the tavern slowly goes back to normal and the drow woman orders a drink and sits down with a wealthy half elf merchant.",
+			"desc": "A female drow in common clothes and a big hat (to block the sun) walks into the tavern and an uncomfortable silence ensues. After it is clear that the drow doesn’t want any trouble the tavern slowly goes back to normal and the drow woman orders a drink and sits down with a wealthy half elf merchant.",
 			"n": 59
 		}, {
 			"desc": "A wrestling ring has been erected in the middle of the tavern. The current champion drinks nearby, and accepts all challengers.",
@@ -268,10 +268,10 @@
 			"desc": "Two goblins are on stage doing a juggling act. The juggling act involves flaming torches, hand axes, and vials of strange green goo. No one seems concerned.",
 			"n": 88
 		}, {
-			"desc": "A love potion is accidentally slipped into one of your party\u2019s drinks instead of the beautiful lady at the next table....",
+			"desc": "A love potion is accidentally slipped into one of your party’s drinks instead of the beautiful lady at the next table....",
 			"n": 89
 		}, {
-			"desc": "It is a roast night. Have the players take turns roasting either each other\u2019s characters, or the DM.",
+			"desc": "It is a roast night. Have the players take turns roasting either each other’s characters, or the DM.",
 			"n": 90
 		}, {
 			"desc": "A talent agent is holding auditions for the midwinter festival play. Bonus points for singing and dancing!",
@@ -292,13 +292,13 @@
 			"desc": "A member of your party is mistaken for a local celebrity. People are constantly asking for autographs etc for the whole night.",
 			"n": 96
 		}, {
-			"desc": "It\u2019s the owners birthday! Reduced drink prices and free cake!",
+			"desc": "It’s the owners birthday! Reduced drink prices and free cake!",
 			"n": 97
 		}, {
-			"desc": "You stumble into the middle of a wake, complete with the body of the deceased on ice next to the bar. Bonus points if that\u2019s the ice used in the drinks!",
+			"desc": "You stumble into the middle of a wake, complete with the body of the deceased on ice next to the bar. Bonus points if that’s the ice used in the drinks!",
 			"n": 98
 		}, {
-			"desc": "The owner makes it very clear he don\u2019t want no trouble in his bar. Will not serve adventurers if they don\u2019t relinquish their weapons.",
+			"desc": "The owner makes it very clear he don’t want no trouble in his bar. Will not serve adventurers if they don’t relinquish their weapons.",
 			"n": 99
 		}, {
 			"desc": "The barkeep leaves a single coin with a tiny dragon at your table, he says 'be sure to spend him quick, he likes to travel' the dragon is friendly but will not separate from the coin.",

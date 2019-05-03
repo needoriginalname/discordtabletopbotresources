@@ -37,7 +37,7 @@
 			"desc": "A single wish spell scroll, except you can only wish for food."
 		}, {
 			"n": 12,
-			"desc": "A cursed flaming sword, that does wonderful slashing damage plus fire damage, but also slowly turns the user\u2019s arms into hair fibres. Whether the questgiver knew about this or not depends on their alignment."
+			"desc": "A cursed flaming sword, that does wonderful slashing damage plus fire damage, but also slowly turns the user's arms into hair fibres. Whether the questgiver knew about this or not depends on their alignment."
 		}, {
 			"n": 13,
 			"desc": "A potion of invisibility. When you drink all of it, though, you not only become invisible, but also emit a constant loud screaming sound for the duration."
@@ -70,13 +70,13 @@
 			"desc": "A five minute run through a treasure trove. The problem is the treasure is stored piecemeal in ceramic magic resistant pots that have to be smashed to open. Each pot will cary only one item or a handful of coins."
 		}, {
 			"n": 23,
-			"desc": "A bard\u2019s favor: they will sing the player\u2019s praises and eventually create a serious work of art: a saga, play, or novel. The truth of these works will depend entirely on how much the players are willing to tell said bard."
+			"desc": "A bard's favor: they will sing the player's praises and eventually create a serious work of art: a saga, play, or novel. The truth of these works will depend entirely on how much the players are willing to tell said bard."
 		}, {
 			"n": 24,
 			"desc": "A single golden coin with an unfamiliar emblem, approximately palm sized. Little do you know, it is enchanted by a local group of bandits to give them your location and they will strike at the worst time."
 		}, {
 			"n": 25,
-			"desc": "The deed to a tavern, which was owned by a family for generations until it was recently reposessed by the local government \u2013 its original owner will most likely approach you looking for charity."
+			"desc": "The deed to a tavern, which was owned by a family for generations until it was recently reposessed by the local government – its original owner will most likely approach you looking for charity."
 		}, {
 			"n": 26,
 			"desc": "Entrance to/advancement in a guild or secret society."
@@ -97,7 +97,7 @@
 			"desc": "Free meals and a room at a local inn for life."
 		}, {
 			"n": 32,
-			"desc": "A house in the upper class parts of town. (It\u2019s free real estate)"
+			"desc": "A house in the upper class parts of town. (It's free real estate)"
 		}, {
 			"n": 33,
 			"desc": "Free booze for life from the local brewery."
@@ -121,7 +121,7 @@
 			"desc": "A small, abandoned estate in the countryside with a rampant Ankheg infestation."
 		}, {
 			"n": 40,
-			"desc": "A cursed ring that is frozen to the wielder\u2019s hand. The ice melts for 5 minutes every time the wielder deceives someone."
+			"desc": "A cursed ring that is frozen to the wielder's hand. The ice melts for 5 minutes every time the wielder deceives someone."
 		}, {
 			"n": 41,
 			"desc": "The jawbone of a Lich, studded with jewels and gold, and can be made to cast a random verbal spell once per day."
@@ -136,10 +136,10 @@
 			"desc": "A badge of favour which will let guards, merchants and soldiers know that you have my blessing. (Benefits and penalties of this and the geographic area it covers will vary greatly depending on the patron!)"
 		}, {
 			"n": 45,
-			"desc": "1sp (a symbolic payment like the king\u2019s shilling) and my undying gratitude."
+			"desc": "1sp (a symbolic payment like the king's shilling) and my undying gratitude."
 		}, {
 			"n": 46,
-			"desc": "A small glass trophy obelisk engraved with \u201c[Patron]\u2019s [Litch/Dragon/Goblin/key adventure goal] quest party member [date]\u201d full fill in the blanks e.g. King Arthur\u2019s Grail quest party member 983AD."
+			"desc": "A small glass trophy obelisk engraved with “[Patron]'s [Litch/Dragon/Goblin/key adventure goal] quest party member [date]” full fill in the blanks e.g. King Arthur's Grail quest party member 983AD."
 		}, {
 			"n": 47,
 			"desc": "A case of finest elven wine."
@@ -184,7 +184,7 @@
 			"desc": "1d100 gold pieces."
 		}, {
 			"n": 61,
-			"desc": "A weapon of great craftsmanship. Little does the party know, it\u2019s haunted."
+			"desc": "A weapon of great craftsmanship. Little does the party know, it's haunted."
 		}, {
 			"n": 62,
 			"desc": "Potion of Levitate: a silver potion contained in a stoppered bone cup. The potion smells like caraway and tastes horrible."
@@ -193,7 +193,7 @@
 			"desc": "An expertly crafted light lance made of walnut and tipped with steel. The handle is wrapped in boar hide."
 		}, {
 			"n": 64,
-			"desc": "Three smooth ingots of Elvish electrum. Each one is worth as much as 40 gold, if you can find a buyer. Most likely you\u2019ll have to accept about half that price."
+			"desc": "Three smooth ingots of Elvish electrum. Each one is worth as much as 40 gold, if you can find a buyer. Most likely you'll have to accept about half that price."
 		}, {
 			"n": 65,
 			"desc": "A box of a matchsticks. When a match is struck it releases puffs of lingering smoke that take on the shapes of humanoid faces, animals, and lofty towers."
@@ -229,7 +229,7 @@
 			"desc": "A treasure map leading to an even greater treasure."
 		}, {
 			"n": 76,
-			"desc": "A gnome who has no idea what\u2019s going on."
+			"desc": "A gnome who has no idea what's going on."
 		}, {
 			"n": 77,
 			"desc": "A skull that will provide moral support."
@@ -238,7 +238,7 @@
 			"desc": "A shield fashioned out of the shoulder blade of a large creature."
 		}, {
 			"n": 79,
-			"desc": "The best poem the PC\u2019s have ever seen."
+			"desc": "The best poem the PC's have ever seen."
 		}, {
 			"n": 80,
 			"desc": "An unbreakable mortar and pestle."
@@ -247,10 +247,10 @@
 			"desc": "A mysterious gummy berry-flavored substance that turns the chewer blue."
 		}, {
 			"n": 82,
-			"desc": "A black dragon\u2019s tooth."
+			"desc": "A black dragon's tooth."
 		}, {
 			"n": 83,
-			"desc": "Bag of Beholding. It\u2019s a bag full of angry bickering Beholders."
+			"desc": "Bag of Beholding. It's a bag full of angry bickering Beholders."
 		}, {
 			"n": 84,
 			"desc": "A magic flying carpet. Can be used as a mount."
@@ -262,7 +262,7 @@
 			"desc": "A barrel of ale."
 		}, {
 			"n": 87,
-			"desc": "A musical instrument of great craftsmanship. This instrument has been passed down in the quest-giver\u2019s family for generations. The quest-giver hates music."
+			"desc": "A musical instrument of great craftsmanship. This instrument has been passed down in the quest-giver's family for generations. The quest-giver hates music."
 		}, {
 			"n": 88,
 			"desc": "An unhatched dragon egg, color to be determined by GM."
@@ -274,7 +274,7 @@
 			"desc": "A magical necklace that has the seal of a foreign kingdom on it. The necklace has the ability to identify magic within 60ft of its wearer."
 		}, {
 			"n": 91,
-			"desc": "Clean matching cloaks for the party. One is a cloak of billowing from Xanathar\u2019s."
+			"desc": "Clean matching cloaks for the party. One is a cloak of billowing from Xanathar's."
 		}, {
 			"n": 92,
 			"desc": "The quest-giver offers to sell the party a house in town at a great discount."
@@ -292,7 +292,7 @@
 			"desc": "A spell book that the quest giver stole from a powerful wizard. Will the wizard come looking for it?"
 		}, {
 			"n": 97,
-			"desc": "A kobold butler that will do the party\u2019s bidding."
+			"desc": "A kobold butler that will do the party's bidding."
 		}, {
 			"n": 98,
 			"desc": "1d4 Potions of Healing"
@@ -304,7 +304,7 @@
 			"desc": "Another quest.\t"
 		}
 	],
-	"version": 1,
+	"version": 2,
 	"createdBy": "dndspeak",
 	"category": ["quests"],
 	"source": "dndspeak"

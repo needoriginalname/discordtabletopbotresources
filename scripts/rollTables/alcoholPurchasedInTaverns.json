@@ -14,7 +14,7 @@
 			"desc": "Elven Absinthe: With an herbal taste, one can easily see why it is a popular drink among the elves. Drinkers take care, though, as it is much more potent than it seems.",
 			"n": 3
 		}, {
-			"desc": "Underdark Ale: It isn\u2019t really from the Underdark, but the brewers figured the name would be eye-catching (they weren\u2019t wrong). It is a dark, potent Burton ale found in pretty much every tavern.",
+			"desc": "Underdark Ale: It isn't really from the Underdark, but the brewers figured the name would be eye-catching (they weren't wrong). It is a dark, potent Burton ale found in pretty much every tavern.",
 			"n": 4
 		}, {
 			"desc": "Goodberry Sangria: Delicious, nutritious, and pricey, this sweet concoction is a fan favorite.",
@@ -299,7 +299,7 @@
 			"desc": "Wyvern 981: A viscous liquor with an indescribable taste. Some have likened it to being punched in the nose with an onion whilst a fond memory kissed you gently inside your throat.",
 			"n": 98
 		}, {
-			"desc": "Gelatinous Gin: One curious and profitably end point in the wizardly experimentation of Curzan is this breed of gelatinous cube, bottled, intoxicating and relatively safe for consumption. This lively cousin of the Gelatinous Cube dances wildly in its bottle when it is given a little shake, as if it is sloshed itself. Sometimes brewers add flecks of precious metals like gold simply for visual effect and conspicuous extravagance. Typically served in a shot glass, the gelatinous drink goes down with a slightly paralyzing effect giving the drinker a signature raspy lisp. It is sweet from the molasses half-metabolized into alcohol (yes, it's technically a rum) and flavored by other organic material added in the brewing process\u2014berries are popular, but some adventurous combinations include ghost peppers, whole octopi and cilantro. Left too long on its own, it has been known to sneak out of the glass and crawl off a bar.",
+			"desc": "Gelatinous Gin: One curious and profitably end point in the wizardly experimentation of Curzan is this breed of gelatinous cube, bottled, intoxicating and relatively safe for consumption. This lively cousin of the Gelatinous Cube dances wildly in its bottle when it is given a little shake, as if it is sloshed itself. Sometimes brewers add flecks of precious metals like gold simply for visual effect and conspicuous extravagance. Typically served in a shot glass, the gelatinous drink goes down with a slightly paralyzing effect giving the drinker a signature raspy lisp. It is sweet from the molasses half-metabolized into alcohol (yes, it's technically a rum) and flavored by other organic material added in the brewing process—berries are popular, but some adventurous combinations include ghost peppers, whole octopi and cilantro. Left too long on its own, it has been known to sneak out of the glass and crawl off a bar.",
 			"n": 99
 		}, {
 			"desc": "Infernal Absinthe: Dangerous stuff. Functionally a deal with a devil in a bottle, infernal absinthe can produce visions in some, nightmares for others. Most people just pass out. If you drink enough of it, you might be in for a terrifying result.",
@@ -312,6 +312,6 @@
 			"n": 102
 		}
 	],
-	"version": 1,
+	"version": 2,
 	"createdBy": "dndspeak"
 }

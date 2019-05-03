@@ -85,7 +85,7 @@
 			"desc": "The caster gets the hiccups, which last for 1d6 minutes."
 		}, {
 			"n": 29,
-			"desc": "Any non-magical pouches or containers on the caster\u2019s person tear open and spill their contents onto the ground."
+			"desc": "Any non-magical pouches or containers on the caster’s person tear open and spill their contents onto the ground."
 		}, {
 			"n": 30,
 			"desc": "Around the caster spawns 10 frogs, all of them are passive."
@@ -94,10 +94,10 @@
 			"desc": "Around the caster spawns 10 rats, all of them hostile."
 		}, {
 			"n": 32,
-			"desc": "A lit birthday candle appears before the caster. In front of the candle is a note. The note reads \u201cblow the candle out to make a wish."
+			"desc": "A lit birthday candle appears before the caster. In front of the candle is a note. The note reads “blow the candle out to make a wish."
 		}, {
 			"n": 33,
-			"desc": "A tiny elemental of the caster\u2019s choice appears as a familiar."
+			"desc": "A tiny elemental of the caster’s choice appears as a familiar."
 		}, {
 			"n": 34,
 			"desc": "Fog seeps up from the ground, obscuring everything within a 20' radius of the target, or caster, for 1d4 rounds."
@@ -145,10 +145,10 @@
 			"desc": "The caster experienced extreme discomfort in their stomach for 1d4 turns before finally releasing a monstrous belch for another 1d4 turns. This belch functions as per the description of the spell Gust of Wind, with the direction of the wind being whichever direction the caster is facing."
 		}, {
 			"n": 49,
-			"desc": "For the next 24 hours, the caster\u2019s nose grows outwards by 1 inch every time they knowingly tell a lie. The nose returns to it\u2019s previous size once the duration is up."
+			"desc": "For the next 24 hours, the caster’s nose grows outwards by 1 inch every time they knowingly tell a lie. The nose returns to it’s previous size once the duration is up."
 		}, {
 			"n": 50,
-			"desc": "For the next hour, the caster bursts into a fit of evil, maniacal laughter every time they open their mouth. Each time they do so, they must make a DC 13 Wisdom saving throw or be compelled to pull a minor prank of some kind. The nature of the prank is at the player\u2019s discretion, so long as it is suitably mischevious and harmless."
+			"desc": "For the next hour, the caster bursts into a fit of evil, maniacal laughter every time they open their mouth. Each time they do so, they must make a DC 13 Wisdom saving throw or be compelled to pull a minor prank of some kind. The nature of the prank is at the player’s discretion, so long as it is suitably mischevious and harmless."
 		}, {
 			"n": 51,
 			"desc": "Every writing in a 10-foot radius of the caster immediately transforms into incredibly petty criticism of the caster. If the caster reads any of it, they must make a DC 10 Wisdom saving throw or believe whatever minor putdown the writing describes."
@@ -306,6 +306,6 @@
 	"sourceUrl": "http://dndspeak.com/2018/02/100-wild-magic-surges/",
 	"source": "dndspeak",
 	"createdBy": "dndspeak",
-	"version": 1,
+	"version": 3,
 	"category": ["conditions"]
 }

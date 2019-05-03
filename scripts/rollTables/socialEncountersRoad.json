@@ -142,10 +142,10 @@
 			"desc": "A drunk from a nearby tavern, unsteady on his feet."
 		}, {
 			"n": 48,
-			"desc": "A partially smashed coffin, with a \u201ccorpse\u201d inside which is slowly moving."
+			"desc": "A partially smashed coffin, with a “corpse” inside which is slowly moving."
 		}, {
 			"n": 49,
-			"desc": "A dealer of \u201cused magical artefacts\u201d."
+			"desc": "A dealer of “used magical artefacts”."
 		}, {
 			"n": 50,
 			"desc": "An elf picking and eating wild berries."
@@ -157,7 +157,7 @@
 			"desc": "Group of robed monks, carrying a lit censer."
 		}, {
 			"n": 53,
-			"desc": "A squire chasing his drunken master\u2019s horse."
+			"desc": "A squire chasing his drunken master’s horse."
 		}, {
 			"n": 54,
 			"desc": "An armoured Dragonborn sitting on a stone, sharpening a sword and sighing."
@@ -214,7 +214,7 @@
 			"desc": "A migrating Treant, walking down the middle of the road."
 		}, {
 			"n": 72,
-			"desc": "A dead knight\u2019s retinue, returning the body home."
+			"desc": "A dead knight’s retinue, returning the body home."
 		}, {
 			"n": 73,
 			"desc": "Traveling reeve or magistrate, summoned to a case."
@@ -298,12 +298,12 @@
 			"desc": "A charcoal burner, telling stories about haunted trees."
 		}, {
 			"n": 100,
-			"desc": "A potion merchant, with a backpack full of \u2018alternative\u2019 potions."
+			"desc": "A potion merchant, with a backpack full of ‘alternative’ potions."
 		}
 	],
 	"createdBy": "dndspeak",
 	"source": "dndspeak",
-	"version": 2,
+	"version": 3,
 	"sourceUrl": "http://dndspeak.com/2018/03/100-social-encounters-on-the-road/",
 	"tableName": "Social Encounters on the Road",
 	"isNumbered": true,

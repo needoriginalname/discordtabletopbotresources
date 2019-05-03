@@ -3,7 +3,7 @@
 	"source": "dndspeak",
 	"createdBy": "dndspeak",
 	"tableName": "Non Magical Plot Twists",
-	"version": 2,
+	"version": 3,
 	"sourceUrl": "http://dndspeak.com/2018/11/100-low-non-magical-plot-twists/",
 	"entries": [{
 			"desc": "They wanted you to pick their pocket",
@@ -180,10 +180,10 @@
 			"desc": "The oracle told you your tattoo marked you as 'the prophesied one' and sent you on the quest. They really have no idea what the tattoo means or how you got it, but someone needed to go on the quest.",
 			"n": 58
 		}, {
-			"desc": "The caravan of traveling performers that you\u2019re traveling with turns out to be the assassin\u2019s guild.",
+			"desc": "The caravan of traveling performers that you're traveling with turns out to be the assassin's guild.",
 			"n": 59
 		}, {
-			"desc": "The greatest wizard in the land turns out to be a fake. It\u2019s all stage magic done with props, smoke, mirrors, and slight of hand.",
+			"desc": "The greatest wizard in the land turns out to be a fake. It's all stage magic done with props, smoke, mirrors, and slight of hand.",
 			"n": 60
 		}, {
 			"desc": "The dread pirate Roberts is not the real dread pirate Roberts. Every few years, the current dread pirate Roberts retires and gets someone else to take up the role",
@@ -204,7 +204,7 @@
 			"desc": "The spider bite that nearly killed you, apparently made you deadly toxic to the horrible monster that you would encounter later",
 			"n": 66
 		}, {
-			"desc": "You though it would be fun or interesting to join in the tribal dance or ritual. Now you\u2019re married to one of the tribes men or women.",
+			"desc": "You though it would be fun or interesting to join in the tribal dance or ritual. Now you're married to one of the tribes men or women.",
 			"n": 67
 		}, {
 			"desc": "By defeating the warrior in single combat, you have made them your servant.",
@@ -216,7 +216,7 @@
 			"desc": "By saving the persons life, they now owe you a life debt and have become your servant",
 			"n": 70
 		}, {
-			"desc": "This person was being a total jerk in the tavern. You challenged and defeated them in single combat. They turn out to be a member of a powerful mercenary guild. The guild leader and several other members show up. Just when you think you are doomed. The guild leader makes you an offer to join the guild. Accept and you\u2019re in the guild. Decline and they walk away.",
+			"desc": "This person was being a total jerk in the tavern. You challenged and defeated them in single combat. They turn out to be a member of a powerful mercenary guild. The guild leader and several other members show up. Just when you think you are doomed. The guild leader makes you an offer to join the guild. Accept and you're in the guild. Decline and they walk away.",
 			"n": 71
 		}, {
 			"desc": "The horrible monster plaguing the town turns out to be one of the PCs long lost pets grown to unusual size.",
@@ -237,13 +237,13 @@
 			"desc": "The kid you just saved from the horrible monster is the son or daughter of the main villain. They wont stop being a villain but they are now indebted to you.",
 			"n": 77
 		}, {
-			"desc": "Turns out your great grand parent were the architect who designed the villain\u2019s castle, stronghold, or citadel. You think there might still be plans somewhere in their old house.",
+			"desc": "Turns out your great grand parent were the architect who designed the villain's castle, stronghold, or citadel. You think there might still be plans somewhere in their old house.",
 			"n": 78
 		}, {
 			"desc": "The minion you just took out was kind of dumb, so he or she has picture instruction on how to find the secret door &#038; instruction on how to open it.",
 			"n": 79
 		}, {
-			"desc": "The villain mistakes one of the PCs for the person they are trying to kidnap and ransom. They can\u2019t understand why the ransom isn't being paid.",
+			"desc": "The villain mistakes one of the PCs for the person they are trying to kidnap and ransom. They can't understand why the ransom isn't being paid.",
 			"n": 80
 		}, {
 			"desc": "Bounty Hunters mistake the PCs for the people they are supposed to capture.",

@@ -306,6 +306,6 @@
 	],
 	"source": "dndspeak",
 	"tableName": "Things you might wake up and find missing",
-	"version": 1,
+	"version": 3,
 	"category": ["conditions"]
 }

@@ -133,13 +133,13 @@
 			"desc": "Sheep Numbers Dwindling - We don't know who, or what, is killing our sheep, but we cant ignore it any longer. Over the last three months, we found several mother sheep and their newborns dead. We offer 10 gold coins for whoever finds out what has happened to our lifestock and ends this from happening again. (A were-sheep has been killing the other sheep, can be found out when the heard is observed, all sheep go away when this particular one comes close to them, or when the transformation happens during a clear moonlit night.)"
 		}, {
 			"n": 44,
-			"desc": "A notice to those on hard times that the mines are hiring, the tag line on the bottom says \u201cWe\u2019ve cleared out the danger that once struck our mine and threatened the safety of the miners, we are confident that resuming our operations shall be fruitful and safe for all.\u201d (Underneath that is a hand written note directly under the text, \u201cSo much for your confidence.\u201d)"
+			"desc": "A notice to those on hard times that the mines are hiring, the tag line on the bottom says “We've cleared out the danger that once struck our mine and threatened the safety of the miners, we are confident that resuming our operations shall be fruitful and safe for all.” (Underneath that is a hand written note directly under the text, “So much for your confidence.”)"
 		}, {
 			"n": 45,
 			"desc": "Deal of a lifetime! I'm willing to trade a lovely tin pot, painted with cornflowers and lilies (and showing a few holes, true, but that's a plus, for you can add a few more and look at that, you've got a colander) for a cart. The cart needn't be big, can even be tiny, in fact, just so that two, or better four, people could fit in it, with ample room for bags and sacks, if possible. Could be old, long as it rides well and has new wheels, and strong axles, so actually probably nothing made longer than a year or two ago would do. Leave a message with Bohddie."
 		}, {
 			"n": 46,
-			"desc": "Cleric needed - Daughter Ill and Dying (A local father is worried because his daughter\u2019s health has been rapidly declining. He needs someone with knowledge of medicine to determine what kind of illness... or poison or curse... is affecting her.)"
+			"desc": "Cleric needed - Daughter Ill and Dying (A local father is worried because his daughter's health has been rapidly declining. He needs someone with knowledge of medicine to determine what kind of illness... or poison or curse... is affecting her.)"
 		}, {
 			"n": 47,
 			"desc": "Adventurers needed! Our Kobold in our previous adventuring party is currently missing and is in possession of an ancient and dangerous artifact. Problem is, he ate it. Please return the artifact in tact! The Kobold (Skrazz) can be returned dead, alive, or not at all for all we care. 1000 GP Reward."
@@ -205,7 +205,7 @@
 			"desc": "Need to make silver quick? Why not platinum! Rent doesn't pay itself ya' know! Find Raul Sonderheim and ask him how you can become your own boss and never have to work a day in your life! (Can be a quest to thwart a predatory pyramid scheme OR be the starting branch in a murder investigation once Raul is found murdered, likely by one of the people he recruited.)"
 		}, {
 			"n": 68,
-			"desc": "WORK FROM HOME: Easy money that anyone can do! Finally live your dream lifestyle! Be your own boss! Make thousands in your first week! Retire early! Don\u2019t be left out!"
+			"desc": "WORK FROM HOME: Easy money that anyone can do! Finally live your dream lifestyle! Be your own boss! Make thousands in your first week! Retire early! Don't be left out!"
 		}, {
 			"n": 69,
 			"desc": "Open minded and discrete healer wanted. Must interview.: Despite the suspicious wording, the job is treating people from discriminated-against ancestries or with embarrassing deformities that have been persecuted, passed over, or financially exploited by other healing organizations. The pay is low, but you make solid allegiances. Word of your kindness spreads among the hidden downtrodden and you may find welcome far away."
@@ -305,7 +305,7 @@
 		}
 	],
 	"isNumbered": true,
-	"version": 2,
+	"version": 3,
 	"source": "dndspeak",
 	"category": ["quests"]
 }

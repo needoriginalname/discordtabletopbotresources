@@ -3,15 +3,15 @@
 	"createdBy": "dndspeak",
 	"tableName": "Warm Up Roleplaying Questions",
 	"source": "dndspeak",
-	"version": 2,
+	"version": 3,
 	"entries": [{
-			"desc": "If your character wasn\u2019t an adventurer, what livelihood would they lead?",
+			"desc": "If your character wasn’t an adventurer, what livelihood would they lead?",
 			"n": 1
 		}, {
 			"desc": "Who in the party would your character trust the most with their life?",
 			"n": 2
 		}, {
-			"desc": "What are your character\u2019s core moral beliefs?",
+			"desc": "What are your character’s core moral beliefs?",
 			"n": 3
 		}, {
 			"desc": "What relationship does your character have with their parents and siblings?",
@@ -20,28 +20,28 @@
 			"desc": "Does your character have any biases for or against certain races?",
 			"n": 5
 		}, {
-			"desc": "What is your character\u2019s opinion on nobility? On authority?",
+			"desc": "What is your character’s opinion on nobility? On authority?",
 			"n": 6
 		}, {
-			"desc": "Describe your character\u2019s current appearance: clothes, armor, scars they\u2019ve picked up along the journey, etc.",
+			"desc": "Describe your character’s current appearance: clothes, armor, scars they’ve picked up along the journey, etc.",
 			"n": 7
 		}, {
-			"desc": "What location encountered in the campaign has your character felt the most \u201cat home\u201d in, or just generally liked the most?",
+			"desc": "What location encountered in the campaign has your character felt the most “at home” in, or just generally liked the most?",
 			"n": 8
 		}, {
-			"desc": "What deity, if any, does your character worship? What\u2019s their opinion on other people\u2019s worship?",
+			"desc": "What deity, if any, does your character worship? What’s their opinion on other people’s worship?",
 			"n": 9
 		}, {
-			"desc": "If your character had time to pick up any artisan\u2019s tools, game set, instrument, etc., what would it be?",
+			"desc": "If your character had time to pick up any artisan’s tools, game set, instrument, etc., what would it be?",
 			"n": 10
 		}, {
-			"desc": "Describe your character\u2019s current relationship with the player character sitting to your right.",
+			"desc": "Describe your character’s current relationship with the player character sitting to your right.",
 			"n": 11
 		}, {
-			"desc": "What is your character\u2019s current goal, summed up in one sentence?",
+			"desc": "What is your character’s current goal, summed up in one sentence?",
 			"n": 12
 		}, {
-			"desc": "Does your character ever want to \u201csettle down\u201d with a spouse, children, house, etc.?",
+			"desc": "Does your character ever want to “settle down” with a spouse, children, house, etc.?",
 			"n": 13
 		}, {
 			"desc": "Has your character ever been in love?",
@@ -50,13 +50,13 @@
 			"desc": "What battle in the campaign has been most memorable to your character?",
 			"n": 15
 		}, {
-			"desc": "If your character wasn\u2019t whatever class they are, what would they be instead?",
+			"desc": "If your character wasn’t whatever class they are, what would they be instead?",
 			"n": 16
 		}, {
-			"desc": "What is your character\u2019s favorite season?",
+			"desc": "What is your character’s favorite season?",
 			"n": 17
 		}, {
-			"desc": "What would your character\u2019s Zodiac sign be, following stereotypical astrology?",
+			"desc": "What would your character’s Zodiac sign be, following stereotypical astrology?",
 			"n": 18
 		}, {
 			"desc": "Where in the world does your character most want to visit?",
@@ -83,19 +83,19 @@
 			"desc": "What would your character say their best trait would be?",
 			"n": 26
 		}, {
-			"desc": "What is your character\u2019s greatest fear? Deep, irrational?",
+			"desc": "What is your character’s greatest fear? Deep, irrational?",
 			"n": 27
 		}, {
 			"desc": "What is currently motivating your character to stay with the party?",
 			"n": 28
 		}, {
-			"desc": "What are your character\u2019s hobbies and interests outside of their class?",
+			"desc": "What are your character’s hobbies and interests outside of their class?",
 			"n": 29
 		}, {
 			"desc": "What would most people think when they first see your character?",
 			"n": 30
 		}, {
-			"desc": "What stereotypical group role does your character play in the party? (The Mom, the Mess, the Comic Relief, etc. Optionally: What role would your character play in the \u201cFive Man Band\u201d structure?)",
+			"desc": "What stereotypical group role does your character play in the party? (The Mom, the Mess, the Comic Relief, etc. Optionally: What role would your character play in the “Five Man Band” structure?)",
 			"n": 31
 		}, {
 			"desc": "What is your character the most insecure about?",
@@ -107,10 +107,10 @@
 			"desc": "What does your character admire and dislike the most about the player character sitting to your left?",
 			"n": 34
 		}, {
-			"desc": "Why is your character\u2019s lowest stat their lowest (the in-character reason, not \u201cbecause there\u2019s no reason for a wizard to have 16 strength, duh\u201d)?",
+			"desc": "Why is your character’s lowest stat their lowest (the in-character reason, not “because there’s no reason for a wizard to have 16 strength, duh”)?",
 			"n": 35
 		}, {
-			"desc": "What would be your character\u2019s theme song/favorite band/favorite genre of music?",
+			"desc": "What would be your character’s theme song/favorite band/favorite genre of music?",
 			"n": 36
 		}, {
 			"desc": "What stereotypical role would your character play in a high school AU/if they attended a normal high school? (Nerd, jock, bully, goth, etc.)",
@@ -125,19 +125,19 @@
 			"desc": "Where does your character feel the most at home?",
 			"n": 40
 		}, {
-			"desc": "Does your character care about how they\u2019re perceived by others? How do they change themselves to fit in with other people?",
+			"desc": "Does your character care about how they’re perceived by others? How do they change themselves to fit in with other people?",
 			"n": 41
 		}, {
 			"desc": "What does your character think is the true meaning of life?",
 			"n": 42
 		}, {
-			"desc": "What is your character\u2019s scent? (Bonus points for a description that sounds like it could be from a bad [or awesome] fanfic.)",
+			"desc": "What is your character’s scent? (Bonus points for a description that sounds like it could be from a bad [or awesome] fanfic.)",
 			"n": 43
 		}, {
 			"desc": "Does your character think more with their heart or their brain?",
 			"n": 44
 		}, {
-			"desc": "What is your character\u2019s most recent or frequent nightmare?",
+			"desc": "What is your character’s most recent or frequent nightmare?",
 			"n": 45
 		}, {
 			"desc": "What opinion does your character have on [CERTAIN ESTABLISHED GROUPS/AUTHORITIES IN THE GAME WORLD]? (Dragonmarked Houses, royal crown, etc.)",
@@ -146,7 +146,7 @@
 			"desc": "How did your character spend their childhood? Where did they grow up/who were their childhood friends?",
 			"n": 47
 		}, {
-			"desc": "What aspect of your character\u2019s future are they most curious about? (If they could know one thing about the future, what would it be?)",
+			"desc": "What aspect of your character’s future are they most curious about? (If they could know one thing about the future, what would it be?)",
 			"n": 48
 		}, {
 			"desc": "What colors are associated with your character?",
@@ -161,7 +161,7 @@
 			"desc": "If your character was granted a single use of Wish, what would they use it for?",
 			"n": 52
 		}, {
-			"desc": "What is your character\u2019s favorite spell? If they don\u2019t use spells: what is their favorite personal weapon/combat maneuver/skill/etc.?",
+			"desc": "What is your character’s favorite spell? If they don’t use spells: what is their favorite personal weapon/combat maneuver/skill/etc.?",
 			"n": 53
 		}, {
 			"desc": "How does your character feel about keeping secrets from the rest of the party?",
@@ -173,13 +173,13 @@
 			"desc": "When they were a child, what did your character want to be, or think they were going to be, when they grew up?",
 			"n": 56
 		}, {
-			"desc": "The player character to your left admits that they\u2019re passionately in love with your character. How would your character respond?",
+			"desc": "The player character to your left admits that they’re passionately in love with your character. How would your character respond?",
 			"n": 57
 		}, {
-			"desc": "If somebody (an NPC, someone from their backstory, etc.) your character trusts/loves asked your character to do something against the party\u2019s best interest, who would they side with?",
+			"desc": "If somebody (an NPC, someone from their backstory, etc.) your character trusts/loves asked your character to do something against the party’s best interest, who would they side with?",
 			"n": 58
 		}, {
-			"desc": "Does your character value their own best interest more than the party\u2019s?",
+			"desc": "Does your character value their own best interest more than the party’s?",
 			"n": 59
 		}, {
 			"desc": "What decision would the party have to make in order for your character to consider splitting off from the group?",
@@ -188,19 +188,19 @@
 			"desc": "How does your character imagine the way they will die?",
 			"n": 61
 		}, {
-			"desc": "What is your character\u2019s greatest achievement?",
+			"desc": "What is your character’s greatest achievement?",
 			"n": 62
 		}, {
 			"desc": "Is your character willing to risk the well-being of others in order to achieve their goal?",
 			"n": 63
 		}, {
-			"desc": "What is your character\u2019s opinion on killing others?",
+			"desc": "What is your character’s opinion on killing others?",
 			"n": 64
 		}, {
-			"desc": "What is your character\u2019s favorite food? Beverage?",
+			"desc": "What is your character’s favorite food? Beverage?",
 			"n": 65
 		}, {
-			"desc": "How generous is your character? Especially to those they don\u2019t know?",
+			"desc": "How generous is your character? Especially to those they don’t know?",
 			"n": 66
 		}, {
 			"desc": "What is your character the most envious about, regarding anyone in the party?",
@@ -209,13 +209,13 @@
 			"desc": "The player character to your left and the player character to your right are both telling your character two different versions of the truth. Who does your character believe?",
 			"n": 68
 		}, {
-			"desc": "What is your character\u2019s sexuality/relationship with sex?",
+			"desc": "What is your character’s sexuality/relationship with sex?",
 			"n": 69
 		}, {
-			"desc": "What is your character\u2019s biggest pet peeve?",
+			"desc": "What is your character’s biggest pet peeve?",
 			"n": 70
 		}, {
-			"desc": "Describe how your character feels about the party\u2019s current situation/objective/etc.",
+			"desc": "Describe how your character feels about the party’s current situation/objective/etc.",
 			"n": 71
 		}, {
 			"desc": "Who in the party would your character trust the most to keep an important secret?",
@@ -233,7 +233,7 @@
 			"desc": "What memory does your character want to forget the most?",
 			"n": 76
 		}, {
-			"desc": "If your character had to multiclass into a class they currently aren\u2019t the next time they level up, what would it be and what reason would they have for doing so?",
+			"desc": "If your character had to multiclass into a class they currently aren’t the next time they level up, what would it be and what reason would they have for doing so?",
 			"n": 77
 		}, {
 			"desc": "What television/book/video game/etc. character would your character be best friends with? (Or: what media character is your character the most influenced by/similar to?",
@@ -245,19 +245,19 @@
 			"desc": "How does your character feel about receiving/giving orders? Are they more of a leader, or a follower?",
 			"n": 80
 		}, {
-			"desc": "What does your character\u2019s name represent to them? (Or: why as a player did you choose your character\u2019s name?)",
+			"desc": "What does your character’s name represent to them? (Or: why as a player did you choose your character’s name?)",
 			"n": 81
 		}, {
 			"desc": "Is your character more of an introvert, or an extrovert?",
 			"n": 82
 		}, {
-			"desc": "How far is your character willing to go to pursue the \u201cgreater good\u201d? Do they believe in a greater good at all?",
+			"desc": "How far is your character willing to go to pursue the “greater good”? Do they believe in a greater good at all?",
 			"n": 83
 		}, {
 			"desc": "What does your character want to be remembered by?",
 			"n": 84
 		}, {
-			"desc": "What would be your character\u2019s major in college?",
+			"desc": "What would be your character’s major in college?",
 			"n": 85
 		}, {
 			"desc": "Does your character consider themselves a hero, villain, or something else?",
@@ -269,13 +269,13 @@
 			"desc": "Where does your character see themselves in 20 years?",
 			"n": 88
 		}, {
-			"desc": "What is your character\u2019s relationship with magic? Are they scared of it, wish to know more about it, indifferent to it?",
+			"desc": "What is your character’s relationship with magic? Are they scared of it, wish to know more about it, indifferent to it?",
 			"n": 89
 		}, {
-			"desc": "Who is your character\u2019s biggest rival?",
+			"desc": "Who is your character’s biggest rival?",
 			"n": 90
 		}, {
-			"desc": "What is your character\u2019s guiltiest pleasure?",
+			"desc": "What is your character’s guiltiest pleasure?",
 			"n": 91
 		}, {
 			"desc": "What does your character hope for the afterlife?",
@@ -284,13 +284,13 @@
 			"desc": "Who in the party does your character trust the least?",
 			"n": 93
 		}, {
-			"desc": "What is your character\u2019s biggest flaw?",
+			"desc": "What is your character’s biggest flaw?",
 			"n": 94
 		}, {
 			"desc": "How did your character learn the languages that they speak?",
 			"n": 95
 		}, {
-			"desc": "What is your character\u2019s favorite school of magic/type of weaponry?",
+			"desc": "What is your character’s favorite school of magic/type of weaponry?",
 			"n": 96
 		}, {
 			"desc": "What is most important to your character: health, wealth, or happiness?",

@@ -1,7 +1,7 @@
 {
 	"sourceUrl": "http://dndspeak.com/2018/05/100-travel-complications/",
 	"isNumbered": true,
-	"version": 2,
+	"version": 3,
 	"tableName": "Travel Complications",
 	"entries": [{
 			"n": 1,
@@ -41,7 +41,7 @@
 			"desc": "A farmer or other commoner is transporting an offering to a fearsome enemy (giant, wizard, orc chieftain, etc.). He/she tells you that the village has managed to remain untouched by offering livestock/goods/gold in exchange for safety."
 		}, {
 			"n": 13,
-			"desc": "You are approached by a zealous group of cultists. They begin preaching to you that the world is going to about to be destroyed by the god they worship, and ask you if you\u2019d like to join their end-of-the-world party (attending reveals that the world is not, in fact, about to end)."
+			"desc": "You are approached by a zealous group of cultists. They begin preaching to you that the world is going to about to be destroyed by the god they worship, and ask you if you’d like to join their end-of-the-world party (attending reveals that the world is not, in fact, about to end)."
 		}, {
 			"n": 14,
 			"desc": "While passing through an abandoned farm, you come across a scarecrow that psychically whispers to you. It gives the party an 'impossible' riddle and claims that if you cannot answer then it will not let you pass. Note: Scarecrow cannot move and players need not answer the riddle in order to simply walk past."
@@ -110,13 +110,13 @@
 			"desc": "You come across 2 NPC's arguing over which one is real, and which is a hallucination."
 		}, {
 			"n": 36,
-			"desc": "You discover a 50ft wide flowing river crossing perpendicular to your path. This same river can\u2019t be found on any maps."
+			"desc": "You discover a 50ft wide flowing river crossing perpendicular to your path. This same river can’t be found on any maps."
 		}, {
 			"n": 37,
 			"desc": "A great human knight has just died of a heart attack as he travelled down the road. His squire and page have pulled him to the side, and one has gone to fetch help. The knight has powerful magical armor and weaponry which would fetch a pretty penny, and there are robbers about..."
 		}, {
 			"n": 38,
-			"desc": "The road is completely blocked off as if an avalanche or rock slide occurred. Problem is the area is pretty flat and you don\u2019t understand how the rocks got here."
+			"desc": "The road is completely blocked off as if an avalanche or rock slide occurred. Problem is the area is pretty flat and you don’t understand how the rocks got here."
 		}, {
 			"n": 39,
 			"desc": "A group of animals have been killed and aligned in a strange formation with weird symbols drawn in blood. Party could find out this was used for a ritual of sorts."
@@ -239,7 +239,7 @@
 			"desc": "A recent landslide has resulted in several large boulders tumbling into a narrow section of the river, making it very difficult to navigate in the Dory boat the party is traveling in. The boat has an HP of 13, roll 1d4 x 4 to see if it safely makes it through, without the hull being opened up, which would cause it to sink."
 		}, {
 			"n": 79,
-			"desc": "A mess of vines blocks the party\u2019s way. Seems like a sharp weapon will be needed."
+			"desc": "A mess of vines blocks the party’s way. Seems like a sharp weapon will be needed."
 		}, {
 			"n": 80,
 			"desc": "Two bugbears are sleeping off their hangover in the middle of the road. You can try to sneak past, take a detour, or attack."
@@ -251,7 +251,7 @@
 			"desc": "You notice an abundance of sink holes in the field. Players bust be careful with their footing as well as not grouping up to close together."
 		}, {
 			"n": 83,
-			"desc": "You find two exact similar dwarfs fighting each other with crossbows and taking cover. Both say the other is a doppelg\u00e4nger. None of them is, they\u2019re just lost siblings. One is named Thruduanir and the other is just named Greg."
+			"desc": "You find two exact similar dwarfs fighting each other with crossbows and taking cover. Both say the other is a doppelg\u00e4nger. None of them is, they’re just lost siblings. One is named Thruduanir and the other is just named Greg."
 		}, {
 			"n": 84,
 			"desc": "A small red skinned creature sits ontop of a rock on the side of the road. It waves to you and implies that it wants to play a game with you, to pass his test to get his higher devil horns. If not, he vanishes. Roll a d6. 1-2 the devil vanishes and leaves a small purse filled with coin, around 10gp.(the coins turn to lead in one hour) 3-4 a group of (appropriate) undead appears and will fight for their souls to be released by the devil. 5-6 a (appropriate) demonic being is brought into existence, will attack the group immediately."

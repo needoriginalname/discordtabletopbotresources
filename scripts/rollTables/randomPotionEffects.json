@@ -1,5 +1,5 @@
 {
-	"version": 1,
+	"version": 2,
 	"tableName": "Random Potion Effects",
 	"entries": [{
 			"desc": "You can speak 3 additional languages, chosen by the DM, for 1d10 days.",
@@ -23,7 +23,7 @@
 			"desc": "Classic love Potion.",
 			"n": 7
 		}, {
-			"desc": "A Potion that if poured on the ground will grow an acre of trees overnight. If drank\u2026.. Well that\u2019s unfortunate.",
+			"desc": "A Potion that if poured on the ground will grow an acre of trees overnight. If drank….. Well that's unfortunate.",
 			"n": 8
 		}, {
 			"desc": "Grows a hideous feature that lasts 1d8 hours (like mandibles).",
@@ -38,25 +38,25 @@
 			"desc": "The index finger on your dominant hand start to glow shed bright light in a 20-foot radius and dim light for an additional 20 feet for the next 1d8 hours.",
 			"n": 12
 		}, {
-			"desc": "You forget everything that\u2019s happened over the last 2 days.",
+			"desc": "You forget everything that's happened over the last 2 days.",
 			"n": 13
 		}, {
 			"desc": "Two extra arms sprout from your sides and function as normal for 10 minutes. You can use these arms to take a bonus action during combat. After 10 minutes the arms suddenly fall away, lifeless.",
 			"n": 14
 		}, {
-			"desc": "The potion is a water elemental. Drinking it tastes like the freshest water you\u2019ve ever drank. As soon as you take part in vigorous activity you spawn a water elemental in the same square as you.",
+			"desc": "The potion is a water elemental. Drinking it tastes like the freshest water you've ever drank. As soon as you take part in vigorous activity you spawn a water elemental in the same square as you.",
 			"n": 15
 		}, {
-			"desc": "The potion is Coca-Cola. Describe the sugary taste and fizz, but don\u2019t use the brand name. See if the player figures it out.",
+			"desc": "The potion is Coca-Cola. Describe the sugary taste and fizz, but don't use the brand name. See if the player figures it out.",
 			"n": 16
 		}, {
-			"desc": "The potion is clear, with glitter floating in it. Drinking it gives you minty fresh breath, and you don\u2019t need to fart or go to the toilet for 48 hours as your body becomes 100% efficient.",
+			"desc": "The potion is clear, with glitter floating in it. Drinking it gives you minty fresh breath, and you don't need to fart or go to the toilet for 48 hours as your body becomes 100% efficient.",
 			"n": 17
 		}, {
-			"desc": "The thick yellow potion twists and moves of its own accord. The fluid inside will actively try to avoid being drunk, clinging to the inside of the bottle. It\u2019s actually a Tiny Ochre Jelly.",
+			"desc": "The thick yellow potion twists and moves of its own accord. The fluid inside will actively try to avoid being drunk, clinging to the inside of the bottle. It's actually a Tiny Ochre Jelly.",
 			"n": 18
 		}, {
-			"desc": "The potion is blood-red with fleshy chunks in it, as through a brain has been put through a blender. Drinking it telegraphs the player\u2019s mood and thoughts to all characters within 30ft for one hour, as if under the Detect Thoughts spell.",
+			"desc": "The potion is blood-red with fleshy chunks in it, as through a brain has been put through a blender. Drinking it telegraphs the player's mood and thoughts to all characters within 30ft for one hour, as if under the Detect Thoughts spell.",
 			"n": 19
 		}, {
 			"desc": "You hover 4 inches above the ground for 1d6 hours.",
@@ -77,7 +77,7 @@
 			"desc": "When you talk it comes out in gibberish, but to you it sounds perfectly normal.",
 			"n": 25
 		}, {
-			"desc": "You see that everyone has a slight outline around them, the color ranging from green to red, but you don\u2019t know the meaning. It\u2019s showing you how long since someone has taken a shit, green being recently and red being long ago.",
+			"desc": "You see that everyone has a slight outline around them, the color ranging from green to red, but you don't know the meaning. It's showing you how long since someone has taken a shit, green being recently and red being long ago.",
 			"n": 26
 		}, {
 			"desc": "You grow an extra toe on each foot.",
@@ -95,19 +95,19 @@
 			"desc": "The drinker turns a deep green and can photosynthesize, but must consume dirt and/or fertilizer to do so.",
 			"n": 31
 		}, {
-			"desc": "The drinker\u2019s nose is inverted, and sinks into their head.",
+			"desc": "The drinker's nose is inverted, and sinks into their head.",
 			"n": 32
 		}, {
 			"desc": "The drinker restores all their spell slots, but can only use them to cast one spell until the next long rest.",
 			"n": 33
 		}, {
-			"desc": "The potion contains an unknown acid that passes through flesh and organs without harming them, nor does it stop on anything other than glass. In fact, it will pass through it all except glass and bone, which it dissolves rather painfully. It\u2019s bone hurting juice.",
+			"desc": "The potion contains an unknown acid that passes through flesh and organs without harming them, nor does it stop on anything other than glass. In fact, it will pass through it all except glass and bone, which it dissolves rather painfully. It's bone hurting juice.",
 			"n": 34
 		}, {
-			"desc": "The potion restores a lost organ or body part as long as it isn\u2019t larger than an orc\u2019s heart. The restored body part will be partially see-through and assume a foggy white color, however, and phantom pain will still be felt where applicable.",
+			"desc": "The potion restores a lost organ or body part as long as it isn't larger than an orc's heart. The restored body part will be partially see-through and assume a foggy white color, however, and phantom pain will still be felt where applicable.",
 			"n": 35
 		}, {
-			"desc": "The potion is highly addictive (roughly 1 in 4 experienced adventurers fall victim to it), but has no other effects. It can be identified as the Hero\u2019s Flaw by a pharmacist, experienced merchant or local dealer.",
+			"desc": "The potion is highly addictive (roughly 1 in 4 experienced adventurers fall victim to it), but has no other effects. It can be identified as the Hero's Flaw by a pharmacist, experienced merchant or local dealer.",
 			"n": 36
 		}, {
 			"desc": "The potion contains a highly flammable see-through fluid that can explode when intensely moved, dealing 1d4 damage per quarter of a litre around 2 meters (+1 every half a litre). Can be used to create fire or shrapnel based explosives.",
@@ -125,7 +125,7 @@
 			"desc": "When you speak you hear yourself normal, but everyone else ears you like a dog trying to speak.",
 			"n": 41
 		}, {
-			"desc": "It\u2019s so bitter that it makes you projectile vomit profusely for 1d4 hours. Disadvantage on stealth checks because of all the sound and tracking checks against you have advantage. Can be weaponized, treat as Acid Splash, 2d6 acid damage.",
+			"desc": "It's so bitter that it makes you projectile vomit profusely for 1d4 hours. Disadvantage on stealth checks because of all the sound and tracking checks against you have advantage. Can be weaponized, treat as Acid Splash, 2d6 acid damage.",
 			"n": 42
 		}, {
 			"desc": "You suffer the outward effects being intoxicated, but your intelligence score is increased by 8 or up to 20 for 1d4 hours. Once the time is up, you recover from all effects and your intelligence reverts.",
@@ -164,22 +164,22 @@
 			"desc": "You get a single wish spell, except what happens is the exact opposite of what you asked for.",
 			"n": 54
 		}, {
-			"desc": "Your STR is permanently increased by 1. If it\u2019s already 20, it goes down to 19.",
+			"desc": "Your STR is permanently increased by 1. If it's already 20, it goes down to 19.",
 			"n": 55
 		}, {
 			"desc": "The liquid is actually blood. You make a CR 10 WIS or CHA check. On a fail, you throw up.",
 			"n": 56
 		}, {
-			"desc": "The liquid seems to be normal water. Next time you are targeted by a spell, however, it\u2019s effect is doubled.",
+			"desc": "The liquid seems to be normal water. Next time you are targeted by a spell, however, it's effect is doubled.",
 			"n": 57
 		}, {
 			"desc": "You feel your skin getting harder. You AC is increased by 3, but your movement speed is halved.",
 			"n": 58
 		}, {
-			"desc": "Next time you get hit by an undead creature or necrotic spell, you have to make a CR 18 CONS save. On a fail, your body starts to shiver, for no mere mortal can resist the evil of the thriller (You start to become a zombie. The transformation lasts 2d6 days, and can be dispelled by magic, before it\u2019s completed).",
+			"desc": "Next time you get hit by an undead creature or necrotic spell, you have to make a CR 18 CONS save. On a fail, your body starts to shiver, for no mere mortal can resist the evil of the thriller (You start to become a zombie. The transformation lasts 2d6 days, and can be dispelled by magic, before it's completed).",
 			"n": 59
 		}, {
-			"desc": "Your breath is minty fresh for a half hour afterwards, but your stomach turns. You get the feeling you weren\u2019t supposed to swallow it.",
+			"desc": "Your breath is minty fresh for a half hour afterwards, but your stomach turns. You get the feeling you weren't supposed to swallow it.",
 			"n": 60
 		}, {
 			"desc": "You immediately unleash the fire breath of a red dragon wyrmling directly in front of you.",
@@ -197,16 +197,16 @@
 			"desc": "Hathopod Blood: A black potion with flecks of green. Tastes like rotting apples. Upon drinking, gain immunity to all negative effects that would be obtained by a substance entering the body for 1d4 days.",
 			"n": 65
 		}, {
-			"desc": "Basalisk Tears: A transparent potion. Tastes like saltwater. Casts \u201cStone to Flesh\u201d when used on a petrified object or person. When used on normal stone, it transmutes in to a random meat.",
+			"desc": "Basalisk Tears: A transparent potion. Tastes like saltwater. Casts “Stone to Flesh” when used on a petrified object or person. When used on normal stone, it transmutes in to a random meat.",
 			"n": 66
 		}, {
-			"desc": "Alchemist\u2019s Cheese: a yellow-white potion so thick it must be heated to be viscous enough to flow. Tastes like normal cheese. Upon consumption, the drinker will vomit various dairy products throughout the day, including milk, cheese, ice cream, and yogurt. The product is from whatever animal was used to make the potion, and is completely edible.",
+			"desc": "Alchemist's Cheese: a yellow-white potion so thick it must be heated to be viscous enough to flow. Tastes like normal cheese. Upon consumption, the drinker will vomit various dairy products throughout the day, including milk, cheese, ice cream, and yogurt. The product is from whatever animal was used to make the potion, and is completely edible.",
 			"n": 67
 		}, {
 			"desc": "Lotus Crystal Solution: A bubbly pink potion. Tastes like sugar and bubble gum. Upon drinking, all ability score improvements are doubled for 1d6 hours. After the 5th time drinking this kind of potion, the drinker will have all stat bonuses halved when not under the effects.",
 			"n": 68
 		}, {
-			"desc": "Character can only speak in haikus, each haiku must reference a vision of nature in some way (\u201cthe sun sets promptly, this dungeon breathes a foul stench, goblins await us\u201d).",
+			"desc": "Character can only speak in haikus, each haiku must reference a vision of nature in some way (“the sun sets promptly, this dungeon breathes a foul stench, goblins await us”).",
 			"n": 69
 		}, {
 			"desc": "The potion resembles bubble tea containing 1d10 small tapioca balls. If you chew on the tapioca balls, they turn into little snails or frogs in your mouth",
@@ -257,19 +257,19 @@
 			"desc": "The potion tastes like the best dessert you ever had, even though it smells like a wet dog. Drinking this potions grants you the benefits of a full day of rations.",
 			"n": 85
 		}, {
-			"desc": "It\u2019s a blood thinner! For 1 day, you bleed out after getting hit. Take half of the damage done on your first hit and subtract it for all following rounds until you are healed.",
+			"desc": "It's a blood thinner! For 1 day, you bleed out after getting hit. Take half of the damage done on your first hit and subtract it for all following rounds until you are healed.",
 			"n": 86
 		}, {
 			"desc": "The potion made you extremely flammable! Stay away from fire or be prepared for things to get lit!",
 			"n": 87
 		}, {
-			"desc": "It\u2019s a Rage Potion! This potion gives you Rage just like a Barbarian. The bottle contains enough liquid for two drinks.",
+			"desc": "It's a Rage Potion! This potion gives you Rage just like a Barbarian. The bottle contains enough liquid for two drinks.",
 			"n": 88
 		}, {
 			"desc": "The potion is a heavy mist. On consumption, your skin turns slimy as you gain water-breathing for 1d4 minutes but lose the ability to breathe above water.",
 			"n": 89
 		}, {
-			"desc": "The bottle contains an addictive poison! When you drink it, it tastes like the worse thing you\u2019ve ever tasted, but then you soon start wanting to take another drink. Each drink causes 1d6 damage, and there is enough on the vial for five drinks.",
+			"desc": "The bottle contains an addictive poison! When you drink it, it tastes like the worse thing you've ever tasted, but then you soon start wanting to take another drink. Each drink causes 1d6 damage, and there is enough on the vial for five drinks.",
 			"n": 90
 		}, {
 			"desc": "It was just moonshine! Disadvantage on dexterity checks.",
@@ -296,7 +296,7 @@
 			"desc": "You begin growing hair all over your body. After 1d4 days all your hair begins to fall out unless you drink more.",
 			"n": 98
 		}, {
-			"desc": "Cabbage Potion \u2013  A potion that transforms it\u2019s drinker in a cabbage. roll a 1d20, thats how many days the person stays a cabbage, on a 20 they become permanently a cabbage. Potion includes telepathy for the cabbage.",
+			"desc": "Cabbage Potion –  A potion that transforms it's drinker in a cabbage. roll a 1d20, thats how many days the person stays a cabbage, on a 20 they become permanently a cabbage. Potion includes telepathy for the cabbage.",
 			"n": 99
 		}, {
 			"desc": "Your veins seem to rise to the top of your body briefly. They leave dark purple and blue markings across your skin which will remain as tattoos.",

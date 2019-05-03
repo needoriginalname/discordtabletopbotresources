@@ -1,5 +1,5 @@
 {
-	"version": 1,
+	"version": 3,
 	"entries": [{
 			"desc": "**The Flaming Dragon** - A spicy beer that causes the user to breathe fire when they burp.",
 			"n": 1
@@ -19,7 +19,7 @@
 			"desc": "**Frost Mead** - Honey and the tear of an Ice Giant make this shot. The crackling blue sparkle and the jet of icy breath you have for rest of the day is worth the expense.",
 			"n": 6
 		}, {
-			"desc": "**Weatherbee\u2019s Whirler** - Invented by the perhaps too inventive Filbus Weatherbee, this drink is testimony as to why it is a bad idea to point a gnome\u2019s sharp mind towards the creation of a new brew. After spending many years living among the dwarves, Weatherbee made his way home with a drink even the stout folk couldn\u2019t handle. This monstrosity is laced with latent magic designed to lessen the chance of drinkers dying from its ungodly alcohol content, and reportedly tastes like \u201cA kick in the face from a horse.\u201d After one shot of this drink, the drinker is shunted into a chaotic haze of blurry awareness, bolstered confidence, and overpowering drunkenness. In addition, the latent magic in the brew causes minor, uncontrolled magical effects to occur around the drinker at random times during the haze. The nature of these effects is up to either the DM or the player, so long as the effects are sufficiently insignificant. After 1d4 hours, the haze drops away and the drinker immediately and almost violently falls into a deep sleep so that they may recover.",
+			"desc": "**Weatherbee’s Whirler** - Invented by the perhaps too inventive Filbus Weatherbee, this drink is testimony as to why it is a bad idea to point a gnome’s sharp mind towards the creation of a new brew. After spending many years living among the dwarves, Weatherbee made his way home with a drink even the stout folk couldn’t handle. This monstrosity is laced with latent magic designed to lessen the chance of drinkers dying from its ungodly alcohol content, and reportedly tastes like “A kick in the face from a horse.” After one shot of this drink, the drinker is shunted into a chaotic haze of blurry awareness, bolstered confidence, and overpowering drunkenness. In addition, the latent magic in the brew causes minor, uncontrolled magical effects to occur around the drinker at random times during the haze. The nature of these effects is up to either the DM or the player, so long as the effects are sufficiently insignificant. After 1d4 hours, the haze drops away and the drinker immediately and almost violently falls into a deep sleep so that they may recover.",
 			"n": 7
 		}, {
 			"desc": "**Dragonborn Bloodwine** - When you drink it, you are able to use a breath attack once within the next 10 minutes.",
@@ -139,16 +139,16 @@
 			"desc": "**Insom's Ale** - has same effects as a long rest, calming.",
 			"n": 46
 		}, {
-			"desc": "**Lilphina\u2019s Lusty Lover Liquid Liquor** - The bottle comes in two parts, with each part having a different hue of color depending on the flavor. When two persons consume the drink within 5 minutes of one another, their minds are swapped for 1 hour.",
+			"desc": "**Lilphina’s Lusty Lover Liquid Liquor** - The bottle comes in two parts, with each part having a different hue of color depending on the flavor. When two persons consume the drink within 5 minutes of one another, their minds are swapped for 1 hour.",
 			"n": 47
 		}, {
-			"desc": "**Pi\u00f1a Colossus** - a rare colossal pineapple hollowed out and filled with rum, coconut cream, and pineapple juice. Usually a shared drink. The pineapple shrinks in size when the liquid is drank or spilled. It will also continue to expand and grow to colossal proportions the more liquid that is added.",
+			"desc": "**Piña Colossus** - a rare colossal pineapple hollowed out and filled with rum, coconut cream, and pineapple juice. Usually a shared drink. The pineapple shrinks in size when the liquid is drank or spilled. It will also continue to expand and grow to colossal proportions the more liquid that is added.",
 			"n": 48
 		}, {
 			"desc": "**The Coup de Grace** - At the end of the night, the bartop is wiped down with a rag, the contents are rung into a shot glass.",
 			"n": 49
 		}, {
-			"desc": "**Drippzt** - The drops in the bottoms of emptied kegs mixed together and dyed black. Anyone who can drink a pint of it without vomiting doesn\u2019t have to pay.",
+			"desc": "**Drippzt** - The drops in the bottoms of emptied kegs mixed together and dyed black. Anyone who can drink a pint of it without vomiting doesn’t have to pay.",
 			"n": 50
 		}, {
 			"desc": "**Firebreath Ale** - If someone drinks it and then breathes into a flame, a 3rd level Fireball is cast centered on the flame.",
@@ -160,7 +160,7 @@
 			"desc": "**The Titans brew** - A regular tasting ale served in an enormous cup, and after drinking it the receiver grows a few inches.",
 			"n": 53
 		}, {
-			"desc": "**Paladin\u2019s Bane** - sweet enough to tempt the righteous and you hardly taste the alcohol, but it\u2019ll give you a decent hangover and diabetes to boot.",
+			"desc": "**Paladin’s Bane** - sweet enough to tempt the righteous and you hardly taste the alcohol, but it’ll give you a decent hangover and diabetes to boot.",
 			"n": 54
 		}, {
 			"desc": "**Goodberry Gin** - if you drink enough of it, it works as a mild healing potion which may or may not compensate for the damage done to your liver or you falling down the stairs while drunk. 1d6 hp healing, 1d4 drunk damage.",
@@ -175,7 +175,7 @@
 			"desc": "**Mandrake Mocha** - a hot creamy beverage with a narcotic effect. Dulls the pain, leads you into a deep slumber.",
 			"n": 58
 		}, {
-			"desc": "**Madman\u2019s Mead** - downing a mug causes a fleeting bout of insanity, roll a d100 for effects of Short-Term Madness.",
+			"desc": "**Madman’s Mead** - downing a mug causes a fleeting bout of insanity, roll a d100 for effects of Short-Term Madness.",
 			"n": 59
 		}, {
 			"desc": "**Ochre Stout** - a cheap drink so thick you can taste chunks in it. Best to swallow and not be curious.",
@@ -184,19 +184,19 @@
 			"desc": "**The Drunken Dwarf** - a pint of dwarven stout with a teabag in it.",
 			"n": 61
 		}, {
-			"desc": "**For (local deity)\u2019s Sake** - a local sake or rice wine, popular with priests.",
+			"desc": "**For (local deity)’s Sake** - a local sake or rice wine, popular with priests.",
 			"n": 62
 		}, {
-			"desc": "**Ciderella** - a sweet apple cider, considered \u201ca girls drink\u201d. Even the toughest bloke will begin giggling like a little girl after a few drinks.",
+			"desc": "**Ciderella** - a sweet apple cider, considered “a girls drink”. Even the toughest bloke will begin giggling like a little girl after a few drinks.",
 			"n": 63
 		}, {
-			"desc": "**Jalap\u00e1linka** - a fruit brandy spiced with hot peppers. Burns the throat, downing a pitcher leads to steam escaping ears and nostrils.",
+			"desc": "**Jalapálinka** - a fruit brandy spiced with hot peppers. Burns the throat, downing a pitcher leads to steam escaping ears and nostrils.",
 			"n": 64
 		}, {
-			"desc": "**Ginger Ale** - Wait, this doesn\u2019t taste like ginger at all... An ale that turns your hair ginger, effect lasts for 1d6 days.",
+			"desc": "**Ginger Ale** - Wait, this doesn’t taste like ginger at all... An ale that turns your hair ginger, effect lasts for 1d6 days.",
 			"n": 65
 		}, {
-			"desc": "**The Maiden\u2019s Ass** - a quadrupel beer, served in a bottle with a donkey and a pretty girl on the label. Sweet but strong.",
+			"desc": "**The Maiden’s Ass** - a quadrupel beer, served in a bottle with a donkey and a pretty girl on the label. Sweet but strong.",
 			"n": 66
 		}, {
 			"desc": "**Bock Bear** - a bock beer that gives you +1 Str and extra body hair for 1d6 hours.",
@@ -205,13 +205,13 @@
 			"desc": "**Polypilsener** - turns you into a canary for 1d4 minutes. Drinking half a mug will turn you halfway into a canary.",
 			"n": 68
 		}, {
-			"desc": "**Our Thoughts and Prayers** - a brandy that works as a reverse Detect Thoughts spell; surrounding people learn your surface thoughts, although you\u2019re unaware of it. Range increases with 2ft each glass, though your thoughts don\u2019t exactly get more coherent.",
+			"desc": "**Our Thoughts and Prayers** - a brandy that works as a reverse Detect Thoughts spell; surrounding people learn your surface thoughts, although you’re unaware of it. Range increases with 2ft each glass, though your thoughts don’t exactly get more coherent.",
 			"n": 69
 		}, {
-			"desc": "**Smirgnome **- a vodka that fills your brain with the weirdest ideas, although the morning after you\u2019ll likely have no memory of inventing a sunlight-storing clockwork pigeon to hunt vampires with.",
+			"desc": "**Smirgnome **- a vodka that fills your brain with the weirdest ideas, although the morning after you’ll likely have no memory of inventing a sunlight-storing clockwork pigeon to hunt vampires with.",
 			"n": 70
 		}, {
-			"desc": "**Abbathor\u2019s Gold** - a clear golden mead that does nothing to quench your thirst - instead, you crave more of it. Roll a Charisma saving throw (DC 10) after each glass; if you fail, you keep drinking. After 8 glasses you pass out for 1d10 hours.",
+			"desc": "**Abbathor’s Gold** - a clear golden mead that does nothing to quench your thirst - instead, you crave more of it. Roll a Charisma saving throw (DC 10) after each glass; if you fail, you keep drinking. After 8 glasses you pass out for 1d10 hours.",
 			"n": 71
 		}, {
 			"desc": "**Coala **- a Dwarven invention, this black bubbly drink tastes like grinded coal with sugar, but also makes you feel reinvigorated and less tired.",
@@ -223,7 +223,7 @@
 			"desc": "**The Umber Hulk **- a pint of whisky, brandy and tequila in equal measures. Good luck.",
 			"n": 74
 		}, {
-			"desc": "**Bottomless pint **- the bartender pours beer into a ceramic mug. When the patron pulls the glass up to their mouths, they realize that the mug really doesn\u2019t have a bottom. The mug is empty, and the beer has been pour through the mug into a hole in the bar with a pitcher underneath.",
+			"desc": "**Bottomless pint **- the bartender pours beer into a ceramic mug. When the patron pulls the glass up to their mouths, they realize that the mug really doesn’t have a bottom. The mug is empty, and the beer has been pour through the mug into a hole in the bar with a pitcher underneath.",
 			"n": 75
 		}, {
 			"desc": "**Copperhead **- the bartender pours a beer, mixes in a shot of whiskey, and then a couple drop of snake venom from a vial. Normally drinkers will feel numb in their extremities. If a drinker fails their saving throw, they will be paralyzed from the neck down for 1D20 minutes.",
@@ -244,7 +244,7 @@
 			"desc": "**Hymvaren's Luck **- A bright, golden-colored beer named after a local drunk who woke up on the beach after a night of carousing with a chest full of pirate's treasure. He claims to have no memory of that night.",
 			"n": 81
 		}, {
-			"desc": "**Bourbon of Dwarfkind** - makes the user start to grow a beard. If they can normally, you see accelerated growth. If they can\u2019t, a few hairs will sprout on their chin.",
+			"desc": "**Bourbon of Dwarfkind** - makes the user start to grow a beard. If they can normally, you see accelerated growth. If they can’t, a few hairs will sprout on their chin.",
 			"n": 82
 		}, {
 			"desc": "**Old Mill Rye **- tastes alright, has a strange aftertaste in the back of your throat of an old sock. It's cheap and gets you drink",
@@ -256,7 +256,7 @@
 			"desc": "**Ochre Jelly Ale **- Ale with safe-to-drink ochre jelly mixed in it.",
 			"n": 85
 		}, {
-			"desc": "**A regular glass of water **- That\u2019s it. It\u2019s just a normal glass with regular, boring water inside.",
+			"desc": "**A regular glass of water **- That’s it. It’s just a normal glass with regular, boring water inside.",
 			"n": 86
 		}, {
 			"desc": "**Mimic Drink **- Usually sold by tricksters to play pranks on people. Looks like a regular glass of water, but a tiny water elemental/water weird is disguised as normal water.",

@@ -8,7 +8,7 @@
 			"desc": "You suddenly speak and read a random language (possibly DMs choice) and have lost the ability to speak one. "
 		}, {
 			"n": 3,
-			"desc": "While you\u2019re alive, the resurrection was not a complete success. You\u2019ve lost use of 1d4 body parts. "
+			"desc": "While you're alive, the resurrection was not a complete success. You've lost use of 1d4 body parts. "
 		}, {
 			"n": 4,
 			"desc": "Another soul latched itself onto yours during your resurrection. You can communicate with it if you concentrate hard enough. "
@@ -35,31 +35,31 @@
 			"desc": "No man can be resurrected. A demon has taken the place of your dear friend. This demon wishes nothing but harm to the party. "
 		}, {
 			"n": 12,
-			"desc": "You gain an extreme fear of a random monster or creature type (DM\u2019s Choice), which causes the frightened effect upon seeing them, unless a wisdom saving throw (DC is DM\u2019s choice) "
+			"desc": "You gain an extreme fear of a random monster or creature type (DM's Choice), which causes the frightened effect upon seeing them, unless a wisdom saving throw (DC is DM's choice) "
 		}, {
 			"n": 13,
 			"desc": "While dead, your soul arrived in the Shadowfell, and wandered there for what seemed like eternity. Since the Shadowfell is a dark reflection of the material plane, you now have advanced geographic knowledge of the region of the world you died in. "
 		}, {
 			"n": 14,
-			"desc": "You awaken with a brand on your ass. Asking the right people will reveal what being has \u201cclaimed\u201d you. Finding them will tell you why. "
+			"desc": "You awaken with a brand on your ass. Asking the right people will reveal what being has “claimed” you. Finding them will tell you why. "
 		}, {
 			"n": 15,
 			"desc": "You awaken with a partial tattoo of a map on your back. Finding others who were resurrected the same day you were will reveal more parts of the map. "
 		}, {
 			"n": 16,
-			"desc": "There\u2019s a strange smell about you that attracts demons. They want to help you and don\u2019t know why. "
+			"desc": "There's a strange smell about you that attracts demons. They want to help you and don't know why. "
 		}, {
 			"n": 17,
 			"desc": "Animals avoid you with a fearful respect."
 		}, {
 			"n": 18,
-			"desc": "A singular horn grows from your head. Druids believe you\u2019re a sign of the apocalypse. "
+			"desc": "A singular horn grows from your head. Druids believe you're a sign of the apocalypse. "
 		}, {
 			"n": 19,
 			"desc": "You feel at home in crypts, graveyards, and other places of burial. You feel tired whenever you are in such a place. "
 		}, {
 			"n": 20,
-			"desc": "Some apparition or entity has attached itself to you on your way back. You\u2019re now plagued with visions of what this malevolent entity is doing on your plane of existence. "
+			"desc": "Some apparition or entity has attached itself to you on your way back. You're now plagued with visions of what this malevolent entity is doing on your plane of existence. "
 		}, {
 			"n": 21,
 			"desc": "The magic to resurrect you never truly left your body and is manifesting in some bizarre ways. Any time you are the subject of a spell with the [element] descriptor, there is a 5% chance a wand of wonder effect will occur treating you as the wand and the caster as the target. "
@@ -71,7 +71,7 @@
 			"desc": "The darkness of the eternal beyond still haunts you. You become unnerved in the dark, and your darkvision is reduced to 20 ft. "
 		}, {
 			"n": 24,
-			"desc": "The resurrection had complications\u2026 Your soul has entered someone else\u2019s body (different race, age, gender, body type, missing limb, etc). If this is near a burial ground, you have to crawl out of their grave. You have vague residual memories of the previous hosts\u2019 \u201cunfinished business.\u201d "
+			"desc": "The resurrection had complications… Your soul has entered someone else's body (different race, age, gender, body type, missing limb, etc). If this is near a burial ground, you have to crawl out of their grave. You have vague residual memories of the previous hosts' “unfinished business.” "
 		}, {
 			"n": 25,
 			"desc": "You must make a pact with a dark power to return. They occasionally manifest their weirdness in you as strange things under your skin, such as tentacles writhing, bugs crawling, snakes or rats crawling, faces appearing, etc. You owe an unholy power a favour. "
@@ -80,7 +80,7 @@
 			"desc": "Instead of simply rising, from within your body issues forth a small humonculoid version of yourself that grows into a reasonable facsimile over the course of a week. There are clearly either physical or mental issues with the copying process. \t"
 		}, {
 			"n": 27,
-			"desc": "A food or drink that you used to love, now tastes like the worst food you can imagine. You would only eat it if you are starving, and it\u2019s the only avalible food. "
+			"desc": "A food or drink that you used to love, now tastes like the worst food you can imagine. You would only eat it if you are starving, and it's the only avalible food. "
 		}, {
 			"n": 28,
 			"desc": "You gain knowledge, and understanding of something once unfamiliar. You gain a random proficiency. "
@@ -95,7 +95,7 @@
 			"desc": "The resurrection ritual works, but your body is put into a comatose state for 1d12 days. "
 		}, {
 			"n": 32,
-			"desc": "The resurrection ritual works, but your mind is muddled, you can\u2019t focus or think straight. You have disadvantage on wisdom, charisma, and intelligence checks for 1d6+1 days. "
+			"desc": "The resurrection ritual works, but your mind is muddled, you can't focus or think straight. You have disadvantage on wisdom, charisma, and intelligence checks for 1d6+1 days. "
 		}, {
 			"n": 33,
 			"desc": "Everyone you previously knew now appears unrecognizable. "
@@ -119,10 +119,10 @@
 			"desc": "Another soul grabbed onto you on your way into the material plane, getting resurrected as well (A NPC appears, with DM determined details) "
 		}, {
 			"n": 40,
-			"desc": "Born Again\u2026 (Choose a new name) "
+			"desc": "Born Again… (Choose a new name) "
 		}, {
 			"n": 41,
-			"desc": "ONE OF US! ONE OF US! (Unintelligent undead won\u2019t attack you unless attacked first.) "
+			"desc": "ONE OF US! ONE OF US! (Unintelligent undead won't attack you unless attacked first.) "
 		}, {
 			"n": 42,
 			"desc": "Unnerving Presence (Take -2 to all charisma rolls) "
@@ -134,16 +134,16 @@
 			"desc": "Death Wish (You no longer fear death and are inclined to do thing the more dangerous way) "
 		}, {
 			"n": 45,
-			"desc": "Hell Bound (You have found out you\u2019re doomed to eternal suffering and you\u2019ll do anything to prevent that) "
+			"desc": "Hell Bound (You have found out you're doomed to eternal suffering and you'll do anything to prevent that) "
 		}, {
 			"n": 46,
-			"desc": "The patron deity of your afterlife was sad to see you go, so before you left he grabbed a part of your mind to keep for himself. Lose 1d8 years of your memory from any part of your life (GM\u2019s Choice) "
+			"desc": "The patron deity of your afterlife was sad to see you go, so before you left he grabbed a part of your mind to keep for himself. Lose 1d8 years of your memory from any part of your life (GM's Choice) "
 		}, {
 			"n": 47,
 			"desc": "When you were resurrected you lost a finger (decided by a d10 role) and anything you do with that hand gets disadvantage. "
 		}, {
 			"n": 48,
-			"desc": "You are now affected by Turn Undead, and other similar effects at the DM\u2019s discretion, however you are otherwise completely fine and feel no obvious ill effects. "
+			"desc": "You are now affected by Turn Undead, and other similar effects at the DM's discretion, however you are otherwise completely fine and feel no obvious ill effects. "
 		}, {
 			"n": 49,
 			"desc": "The magic that brought you back lingers. Whenever you gain the benefits of supernatural healing, roll a d20. On a 1-5 the spells effect is reversed, causing the same amount of necrotic damage instead of conferring any healing. On a roll of 18-20 the healing energy spikes, healing the maximum amount possible to you and half that amount to all creatures within 10 ft of you. "
@@ -161,13 +161,13 @@
 			"desc": "Loss of belly button. "
 		}, {
 			"n": 54,
-			"desc": "It\u2019s like a printer. Sometimes it prints twice. Gain a perfect body double. "
+			"desc": "It's like a printer. Sometimes it prints twice. Gain a perfect body double. "
 		}, {
 			"n": 55,
-			"desc": "You made a friend while you were a ghost. But now they want you back\u2026 "
+			"desc": "You made a friend while you were a ghost. But now they want you back… "
 		}, {
 			"n": 56,
-			"desc": "At the start of every hour, roll a d20. On a roll of 1, you leave your body and enter the ethereal plane. Any damage dealt to your body in the plane you\u2019re currently in is dealt to your ethereal self, and vice versa. At the end of the hour, you are returned to your body and you don\u2019t roll for this until the next dawn. "
+			"desc": "At the start of every hour, roll a d20. On a roll of 1, you leave your body and enter the ethereal plane. Any damage dealt to your body in the plane you're currently in is dealt to your ethereal self, and vice versa. At the end of the hour, you are returned to your body and you don't roll for this until the next dawn. "
 		}, {
 			"n": 57,
 			"desc": "Your reflection (in a mirror, blade, water, etc.) is a rotted corpse. "
@@ -182,10 +182,10 @@
 			"desc": "Your eyes are cold and dead. "
 		}, {
 			"n": 61,
-			"desc": "You were resurrected, but it was a painful experience and the torment you wish you hadn\u2019t been brought back. You wouldn\u2019t wish upon your greatest enemy let alone your best friend. If you are aware of someone being resurrected, you will you do every in your power to stop it, so they don\u2019t go through the pain you did. "
+			"desc": "You were resurrected, but it was a painful experience and the torment you wish you hadn't been brought back. You wouldn't wish upon your greatest enemy let alone your best friend. If you are aware of someone being resurrected, you will you do every in your power to stop it, so they don't go through the pain you did. "
 		}, {
 			"n": 62,
-			"desc": "You met your ancestors, who informed you that you\u2019re a complete disappointment. All actions related to self esteem or will receive a penalty until you become rich, famous, or infamous. "
+			"desc": "You met your ancestors, who informed you that you're a complete disappointment. All actions related to self esteem or will receive a penalty until you become rich, famous, or infamous. "
 		}, {
 			"n": 63,
 			"desc": "Everything you eat has the texture of ashes. "
@@ -194,22 +194,22 @@
 			"desc": "The afterlife was a paradise, and you now have a compelling urge to return to the perfect life ripped away from you. "
 		}, {
 			"n": 65,
-			"desc": "Due to atrophy in your eyes while you were a corpse, you\u2019re now sensitive to bright light and prefer to stay in darkness. "
+			"desc": "Due to atrophy in your eyes while you were a corpse, you're now sensitive to bright light and prefer to stay in darkness. "
 		}, {
 			"n": 66,
 			"desc": "You gain a mark resembling an eye on your forehead, which is very visible if not covered. Twice a day, you can flip a coin for a chance to reveal the next action of any creature. "
 		}, {
 			"n": 67,
-			"desc": "Your spirit managed to make it back to the material plane mostly intact \u2013 the only screw up is in your hands. Since they\u2019re still halfway in the spirit realm, your character has no hands unless you can maintain concentration on summoning them from the spirit realm. However, because they\u2019re spirit hands, you can summon spirit hands of any race! Imagine an orc who can will dragon claws into existance! Or a gnome with the meaty hands of an ogre! "
+			"desc": "Your spirit managed to make it back to the material plane mostly intact – the only screw up is in your hands. Since they're still halfway in the spirit realm, your character has no hands unless you can maintain concentration on summoning them from the spirit realm. However, because they're spirit hands, you can summon spirit hands of any race! Imagine an orc who can will dragon claws into existance! Or a gnome with the meaty hands of an ogre! "
 		}, {
 			"n": 68,
-			"desc": "In the spirit realm you were able to perceive time as it truly exists. As such, you are now able to measure time exactly \u2013 knowing the time of day, counting hours, etc. "
+			"desc": "In the spirit realm you were able to perceive time as it truly exists. As such, you are now able to measure time exactly – knowing the time of day, counting hours, etc. "
 		}, {
 			"n": 69,
-			"desc": "Your soul has become bound to a random item near the site of resurrection. Thus, your character cannot be killed by conventional means \u2013 if \u201ckilled,\u201d his / her soul lives on within the item and can be reassigned to another body with a simple ritual. However, if your character\u2019s body is more than 30ft from the item, they will enter a comatose state. They will also die if the item is destroyed. "
+			"desc": "Your soul has become bound to a random item near the site of resurrection. Thus, your character cannot be killed by conventional means – if “killed,” his / her soul lives on within the item and can be reassigned to another body with a simple ritual. However, if your character's body is more than 30ft from the item, they will enter a comatose state. They will also die if the item is destroyed. "
 		}, {
 			"n": 70,
-			"desc": "The resurrection ritual, in recalling your soul from the spirit realm, inadvertently duplicated it and has created an undead manifestation of your soul somewhere else in the world. Perhaps it has some sort of evil undead agenda\u2026 "
+			"desc": "The resurrection ritual, in recalling your soul from the spirit realm, inadvertently duplicated it and has created an undead manifestation of your soul somewhere else in the world. Perhaps it has some sort of evil undead agenda… "
 		}, {
 			"n": 71,
 			"desc": "Your senses have become a bit jumbled. You now smell with your ears, hear with your eyes, see with your tongue, and can taste and touch with your entire body. "
@@ -221,7 +221,7 @@
 			"desc": "In your short trip to the afterlife, you learned that a parent made a deal with a demon, and your soul was the one promised. "
 		}, {
 			"n": 74,
-			"desc": "The nature of your character\u2019s soul has become muddied a little after spending time with the souls of many others in the spirit realm. As such, it reacts positively to any detection of aura \u2013 good, evil, magic, etc. Anything that someone or something is trying to find via magical means will find it in your character\u2019s soul. "
+			"desc": "The nature of your character's soul has become muddied a little after spending time with the souls of many others in the spirit realm. As such, it reacts positively to any detection of aura – good, evil, magic, etc. Anything that someone or something is trying to find via magical means will find it in your character's soul. "
 		}, {
 			"n": 75,
 			"desc": "As you have now been linked to both the material and spiritual planes, you may now be sacrificed as a reagent in a simple resurrection ritual. Additionally, the second death of your character will immediately cause the resurrection of a random nearby body. "
@@ -251,7 +251,7 @@
 			"desc": "Living among the dead you learned the secret of the flesh. Consuming corpse parts lets you see how they died. Biting someone let you see their real intention and fear. Of course, if you do it publicy, who have saw you will prefer blades over words and you get -2 CHR in every diplomatic throw with them. "
 		}, {
 			"n": 84,
-			"desc": "Dogs and other canids will perceive you as a Skeleton, and for that they will try to bit a gnaw your \u201cbones\u201d for fun. Trying to reason with them is just a loss of time. Run or Fight. "
+			"desc": "Dogs and other canids will perceive you as a Skeleton, and for that they will try to bit a gnaw your “bones” for fun. Trying to reason with them is just a loss of time. Run or Fight. "
 		}, {
 			"n": 85,
 			"desc": "Your soul becomes tethered to the one who resurrected you. In combat, you will be compelled to protect them against melee and ranged attacks you can see. Out of combat, you feel compelled to help them in all their endeavors. "
@@ -266,13 +266,13 @@
 			"desc": "When you died, though your body dropped straight down, your soul was left standing. The figure of everyone you killed appear underneath you and tried to drag you down to them, and echoes of everyone you saved try to drag you up to the heavens. Your alignment changes to good, and you feel a compulsion to save every life you can, no matter the costs. "
 		}, {
 			"n": 89,
-			"desc": "Just before you reawaken you see a huge eye in front of you. Your soul contains a spark of the power of resurrection, and a shard of a dragon\u2019s soul. Whenever you encounter a dragon they will try to take you alive. Your life can be sacrificed to resurrect a dragon, or to give the dragon who caught you a second life. "
+			"desc": "Just before you reawaken you see a huge eye in front of you. Your soul contains a spark of the power of resurrection, and a shard of a dragon's soul. Whenever you encounter a dragon they will try to take you alive. Your life can be sacrificed to resurrect a dragon, or to give the dragon who caught you a second life. "
 		}, {
 			"n": 90,
-			"desc": "In existence after death, you\u2019ve experienced eternity. This has given you time to contemplate yourself, but made you grow distant. You gain +1 Wisdom and -1 Charisma. "
+			"desc": "In existence after death, you've experienced eternity. This has given you time to contemplate yourself, but made you grow distant. You gain +1 Wisdom and -1 Charisma. "
 		}, {
 			"n": 91,
-			"desc": "Your soul lived out the life of an animal (DM\u2019s choice) in the afterlife. You now have the ability to speak with this type of animal and you refuse to kill or eat its kind. "
+			"desc": "Your soul lived out the life of an animal (DM's choice) in the afterlife. You now have the ability to speak with this type of animal and you refuse to kill or eat its kind. "
 		}, {
 			"n": 92,
 			"desc": "The person who revived you invested a fair amount of their own power and life force doing so. As a result your memories and sensibilities mirror there own. Your alignment moves one step closer to their own. You also gain a number of their own memories and believe them to be your own. "
@@ -293,7 +293,7 @@
 			"desc": "When the character had died before, he or she learned that material possessions (or at least their duplicates) are brought with them to the afterlife. Upon resurrection, the character learned he or she had very little and now wants to take as much possible. The character finds it hard to part with their possessions and may have tendencies to steal. "
 		}, {
 			"n": 98,
-			"desc": "In the character\u2019s afterlife, they were presented with an incredibly wide variety of food. Upon resurrection, the character finds it hard to stomach the same food within a week. If a food item is consumed within a week of the last time it was eaten, make a Will save (discretion of DM) to not get nauseous. If nauseous, make a Con save to not vomit. "
+			"desc": "In the character's afterlife, they were presented with an incredibly wide variety of food. Upon resurrection, the character finds it hard to stomach the same food within a week. If a food item is consumed within a week of the last time it was eaten, make a Will save (discretion of DM) to not get nauseous. If nauseous, make a Con save to not vomit. "
 		}, {
 			"n": 99,
 			"desc": "The resurrection changed your way of thinking, every time you wake up from sleep, you randomly change your alignment. "
@@ -302,7 +302,7 @@
 			"desc": "The resurrection left dead trace inside you. Once per day, as an action, you can cast Chill Touch. "
 		}, {
 			"n": 101,
-			"desc": "You can\u2019t control your left hand. It\u2019s possessed and only obeys if you address the spirit by their name. Also pushes other spirits away 5 feet once per day. "
+			"desc": "You can't control your left hand. It's possessed and only obeys if you address the spirit by their name. Also pushes other spirits away 5 feet once per day. "
 		}, {
 			"n": 102,
 			"desc": "Every sundown a hole from the Nine Hells opens in front of you to deliver a scroll. It lists the location of other escapees and you are now an infernal bounty hunter forced to send them back. The hole is useful for starting campfires. "
@@ -314,7 +314,7 @@
 			"desc": "Due to an unstable ritual you occasionally burst out a two foot plume of hellfire from random body parts. Once a week and forces you to carry an extra set of clothes. "
 		}, {
 			"n": 105,
-			"desc": "Tieflings say \u201cYou smell like home.\u201d +5 charisma with Tieflings. "
+			"desc": "Tieflings say “You smell like home.” +5 charisma with Tieflings. "
 		}, {
 			"n": 106,
 			"desc": "Celestials are disgusted by you. -5 charisma with Celestials. "
@@ -326,10 +326,10 @@
 			"desc": "You have no reflection. "
 		}, {
 			"n": 109,
-			"desc": "During your time in the other side, your mind was touched by something unnatural. You experience intense nightmares once a month that leave you without the benefits of a night\u2019s rest, and any who attempt to access your mind without significant protection suffer 4d10 psychic damage as backlash. Once per day, you may touch another creature\u2019s head and force them to make DC 24 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. While frightened, the creature\u2019s speed is 0, and it cannot benefit from any bonuses to its speed. On a successful save, the creature\u2019s move speed is normal and they benefit from bonuses to their speed as normal. "
+			"desc": "During your time in the other side, your mind was touched by something unnatural. You experience intense nightmares once a month that leave you without the benefits of a night's rest, and any who attempt to access your mind without significant protection suffer 4d10 psychic damage as backlash. Once per day, you may touch another creature's head and force them to make DC 24 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. While frightened, the creature's speed is 0, and it cannot benefit from any bonuses to its speed. On a successful save, the creature's move speed is normal and they benefit from bonuses to their speed as normal. "
 		}, {
 			"n": 110,
-			"desc": "Your body didn\u2019t come together perfectly. You\u2019ve lost your sense of taste. "
+			"desc": "Your body didn't come together perfectly. You've lost your sense of taste. "
 		}, {
 			"n": 111,
 			"desc": "The resurrection has inverted your handedness and sex, changed your hair colour (if applicable) (d6, 1=blond, 2=brown, 3=black, 4=red, 5=grey, 6=white) and given you heterochromia. "
@@ -347,10 +347,10 @@
 			"desc": "Your soul is returned, but your body continues to decay. This is not obvious at first, but becomes more and more clear over time."
 		}, {
 			"n": 116,
-			"desc": "This body.. Feels strange.. Things you were good at you\u2019re now bad at.. and vice versa.. Take the score of your highest ability and now swap it with your lowest ability. Move 2 skill proficiencies from your once strongest ability, and replace them with two in your new strongest. "
+			"desc": "This body.. Feels strange.. Things you were good at you're now bad at.. and vice versa.. Take the score of your highest ability and now swap it with your lowest ability. Move 2 skill proficiencies from your once strongest ability, and replace them with two in your new strongest. "
 		}, {
 			"n": 117,
-			"desc": "Your body doesn\u2019t heal by natural means. In order to heal properly, you must apply flesh from a creature that has died within 24 hours to the wound. This applies to both short rests and long rests. "
+			"desc": "Your body doesn't heal by natural means. In order to heal properly, you must apply flesh from a creature that has died within 24 hours to the wound. This applies to both short rests and long rests. "
 		}, {
 			"n": 118,
 			"desc": "Everybody that was not directly involved in your resurrection forgets your existence and achievements before you died and treats you as someone they never knew or heard of. "
@@ -386,13 +386,13 @@
 			"desc": "The risen still bears the wound that killed them. It never bleeds, but never heals, frozen in time. "
 		}, {
 			"n": 129,
-			"desc": "Someone else in the world died at the very same instant as you, and the spell brought them back too. You will know each other by sight, and they may or may not be thankful\u2026 "
+			"desc": "Someone else in the world died at the very same instant as you, and the spell brought them back too. You will know each other by sight, and they may or may not be thankful… "
 		}, {
 			"n": 130,
 			"desc": "Your eyes have lost the ability to see visible light, but you either gain darkvision up to 50 feet or gain 50 feet to your existing darkvision ability. "
 		}, {
 			"n": 131,
-			"desc": "You don\u2019t believe in gods anymore and are afraid of silence and darkness, divine magic no longer work around you. "
+			"desc": "You don't believe in gods anymore and are afraid of silence and darkness, divine magic no longer work around you. "
 		}, {
 			"n": 132,
 			"desc": "If you were evil aligned before the resurrection, you are now a goody two-shoes. If you were good-aligned, you are now apathetic to the plights of others. "
@@ -407,7 +407,7 @@
 			"desc": "Your body and spirit are less bound to the material plane. When exposed to high magic flux (such as casting or being hit by powerful spells), you have a 25% (1d4) chance to be displaced to the border ethereal. You remain there until you are again exposed to high levels of magic, until you are subject to an effect that allows travel between the border etheral and another plane, or until 1d6 hours have passed. "
 		}, {
 			"n": 136,
-			"desc": "You can smell blood within a city\u2019s walls. "
+			"desc": "You can smell blood within a city's walls. "
 		}, {
 			"n": 137,
 			"desc": "The lines between living and dead are now very blurred to you. Once the sun goes down, you can constantly Speak With Dead- but cannot communicate with the living. "
@@ -419,28 +419,28 @@
 			"desc": "The worst has happened, and you came back. Your character is now forever immune to Fear. However, your body longs for its eternal rest: you automatically fail any saving throw against Sleep effects. "
 		}, {
 			"n": 140,
-			"desc": "The ritual failed, and someone else has come back in the old character\u2019s body. "
+			"desc": "The ritual failed, and someone else has come back in the old character's body. "
 		}, {
 			"n": 141,
-			"desc": "Your links to the beyond have not been severed. You can cast \u201cSpeak with the Dead\u201d at will. "
+			"desc": "Your links to the beyond have not been severed. You can cast “Speak with the Dead” at will. "
 		}, {
 			"n": 142,
-			"desc": "As part of the deal, you have to kill whatever killed you within a month or you\u2019re dead for good. "
+			"desc": "As part of the deal, you have to kill whatever killed you within a month or you're dead for good. "
 		}, {
 			"n": 143,
 			"desc": "Your character cannot sleep without medicinal, magical, or alcoholic assistance. "
 		}, {
 			"n": 144,
-			"desc": "Whenever taking a long rest, roll a d10. Rolling a 1, your character\u2019s dreams and thoughts are haunted with grim and hellish images of the afterlife, negating any benefit from the rest. "
+			"desc": "Whenever taking a long rest, roll a d10. Rolling a 1, your character's dreams and thoughts are haunted with grim and hellish images of the afterlife, negating any benefit from the rest. "
 		}, {
 			"n": 145,
-			"desc": "You develop a taste for the cultural food of your rival. On awakening you develop a craving for a popular dish(es) from your rival\u2019s homeland and desire to learn how to prepare it yourself. If you do not have a rival, the last humanoid you disagreed with fills this role. "
+			"desc": "You develop a taste for the cultural food of your rival. On awakening you develop a craving for a popular dish(es) from your rival's homeland and desire to learn how to prepare it yourself. If you do not have a rival, the last humanoid you disagreed with fills this role. "
 		}, {
 			"n": 146,
 			"desc": "You develop an uncanny liking for oozes. You will seek out the nearest ooze/slime you know of/can find, and will attempt to befriend it by any method available to you. If the ooze is killed in the process you scoop up what you can in a jar and carry it with you as a beloved keepsake that you will cherish to your death. "
 		}, {
 			"n": 147,
-			"desc": "One of your body parts (GM\u2019s choice) is now replaced with a random metal. "
+			"desc": "One of your body parts (GM's choice) is now replaced with a random metal. "
 		}, {
 			"n": 148,
 			"desc": "When sleeping you appear dead to a casual observer. You barely breath, and your heartbeat cannot be felt. "
@@ -455,7 +455,7 @@
 			"desc": "You have learned that there is no punishment or reward after death. Morality seems pointless now. "
 		}, {
 			"n": 152,
-			"desc": "During your short eternity you were very \u201cclose\u201d with a demon: -(if Male) A Tiefling will eventually find you claiming to be your spawn -(if Female) A Tiefling surprise is growing within you. "
+			"desc": "During your short eternity you were very “close” with a demon: -(if Male) A Tiefling will eventually find you claiming to be your spawn -(if Female) A Tiefling surprise is growing within you. "
 		}, {
 			"n": 153,
 			"desc": "You inexplicably gain 1d6 warlock spells. (DM pick from spells that would be available to a warlock of the same level as the PC). "
@@ -473,7 +473,7 @@
 			"desc": "You are cursed with mephitic flatulence. 1d4-1 times a day you emit a 10-foot-radius Stinking cloud. The DM decides/rolls when these emissions occur. "
 		}, {
 			"n": 158,
-			"desc": "After being resurrected you\u2019re deemed ineligible for the afterlife when you next die. "
+			"desc": "After being resurrected you're deemed ineligible for the afterlife when you next die. "
 		}, {
 			"n": 159,
 			"desc": "You awaken from death with a silver engagement ring clasped in your hand and a feeling of utter loss. The ring fades to mist if worn. "
@@ -497,18 +497,18 @@
 			"desc": "Your breath become unbearable. Characters become more difficult to persuade as the conversation unfolds. No effect on intimidation. "
 		}, {
 			"n": 166,
-			"desc": "When you came back, you found a little hourglass in your hand, filled with sand. Wherever you go now, it\u2019s somewhere on you. If you break it you die again. "
+			"desc": "When you came back, you found a little hourglass in your hand, filled with sand. Wherever you go now, it's somewhere on you. If you break it you die again. "
 		}, {
 			"n": 167,
-			"desc": "You\u2019re living on borrowed time : every person who was present when you were resurrected now ages twice as fast, allowing you to live. "
+			"desc": "You're living on borrowed time : every person who was present when you were resurrected now ages twice as fast, allowing you to live. "
 		}, {
 			"n": 168,
-			"desc": "To allow you to come back, Death had to take someone else\u2019s life. Since it has a sick sense of humor, it took the life of the person you love most, and won\u2019t ever give it back. "
+			"desc": "To allow you to come back, Death had to take someone else's life. Since it has a sick sense of humor, it took the life of the person you love most, and won't ever give it back. "
 		}
 	],
 	"sourceUrl": "http://dndspeak.com/2017/12/168-resurrection-side-effects/",
 	"category": ["conditions"],
-	"version": 1,
+	"version": 2,
 	"createdBy": "dndspeak",
 	"isNumbered": true,
 	"source": "dndspeak"

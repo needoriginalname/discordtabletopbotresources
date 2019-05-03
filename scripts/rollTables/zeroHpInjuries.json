@@ -84,19 +84,19 @@
 			"desc": "The scar tissue makes you tougher, +1 to AC, -1 to dexterity.",
 			"n": 27
 		}, {
-			"desc": "You gain a new flaw: \u201dI have become addicted to the thrill of danger, being close to death is the only thing that makes me feel alive.\u201d",
+			"desc": "You gain a new flaw: ”I have become addicted to the thrill of danger, being close to death is the only thing that makes me feel alive.”",
 			"n": 28
 		}, {
 			"desc": "You muscle tissue is permanently damaged. -2 to strength.",
 			"n": 29
 		}, {
-			"desc": "A large and deep scar on the player\u2019s back.",
+			"desc": "A large and deep scar on the player’s back.",
 			"n": 30
 		}, {
 			"desc": "One eye loses all sight and falls out.",
 			"n": 31
 		}, {
-			"desc": "A permanent bruise lays in the center of the player\u2019s chest.",
+			"desc": "A permanent bruise lays in the center of the player’s chest.",
 			"n": 32
 		}, {
 			"desc": "Both arms break badly.",
@@ -174,7 +174,7 @@
 			"desc": "As you fall unconscious, a strange, black, eldritch symbol flashes above your chest, though you do not see it.",
 			"n": 57
 		}, {
-			"desc": "A rich, deep, velvety voice begins to seep through your mind like water through a sponge, offering you comfort and good advice. It eventually begins to suggest that you obtain women to follow you around, which you may provide the services of in exchange for currency. The voice makes these suggestions in the most reasonable ways it can to start, but begins to grow more urgent the longer you go without \u201cpimping\u201d out a woman, though it will never suggest doing anything that is less than effective at achieving it\u2019s desires.",
+			"desc": "A rich, deep, velvety voice begins to seep through your mind like water through a sponge, offering you comfort and good advice. It eventually begins to suggest that you obtain women to follow you around, which you may provide the services of in exchange for currency. The voice makes these suggestions in the most reasonable ways it can to start, but begins to grow more urgent the longer you go without “pimping” out a woman, though it will never suggest doing anything that is less than effective at achieving it’s desires.",
 			"n": 58
 		}, {
 			"desc": "Skin begins to flake off of you with alarming frequency, resulting in you having perpetually loose and sensitive skin. You now feel changes in temperature more extremely, and sheds your skin at an unnatural rate when brought close to 0 HP.",
@@ -189,25 +189,25 @@
 			"desc": "Severe damage to the nether regions. No stat loss, you just feel sad.",
 			"n": 62
 		}, {
-			"desc": "You manage to cauturize the wound on your foot but lose a toe. You now forever have an insistent phantom itch where your toe used to be but no toe to scratch. You wonder if Hell would\u2019ve been worse.",
+			"desc": "You manage to cauturize the wound on your foot but lose a toe. You now forever have an insistent phantom itch where your toe used to be but no toe to scratch. You wonder if Hell would’ve been worse.",
 			"n": 63
 		}, {
 			"desc": "You manage to survive but your spine remains stiff and sore. You now have to drag along a soft matress or pay for a decent inn to have a Long Rest.",
 			"n": 64
 		}, {
-			"desc": "The wound on your head has healed but has left a large circular scar on your scalp where no hair will grow. Everyone now believes you\u2019re a monk.",
+			"desc": "The wound on your head has healed but has left a large circular scar on your scalp where no hair will grow. Everyone now believes you’re a monk.",
 			"n": 65
 		}, {
-			"desc": "You\u2019ve suffered a blow to the head and got a concussion. You have bouts of madness which leave you temporarily and unpredictably incapacitated (1d4 turns) until you\u2019ve had a Long Rest.",
+			"desc": "You’ve suffered a blow to the head and got a concussion. You have bouts of madness which leave you temporarily and unpredictably incapacitated (1d4 turns) until you’ve had a Long Rest.",
 			"n": 66
 		}, {
 			"desc": "Anawn, God of Death has come to claim your soul. You manage to bribe him with a kitten and live to tell the tale. Next time any character dies you see Death wave to you smiling with a kitten on his arm.",
 			"n": 67
 		}, {
-			"desc": "You manage to dodge a blow/spell that would\u2019ve killed you, but it catches your backpack instead and destroys a random item (roll a die).",
+			"desc": "You manage to dodge a blow/spell that would’ve killed you, but it catches your backpack instead and destroys a random item (roll a die).",
 			"n": 68
 		}, {
-			"desc": "The wound you\u2019ve acquired remains painful and you\u2019ve become addicted to pain killers. Each healing potion leaves you with -1 Dex for one hour.",
+			"desc": "The wound you’ve acquired remains painful and you’ve become addicted to pain killers. Each healing potion leaves you with -1 Dex for one hour.",
 			"n": 69
 		}, {
 			"desc": "Ringing ears, you are deaf for 1d4 rounds.",
@@ -294,7 +294,7 @@
 			"desc": "You lose a LOT of blood. Your max HP is reduced by half, but is restored by 10% with every long rest.",
 			"n": 97
 		}, {
-			"desc": "The player\u2019s joints constantly ache.",
+			"desc": "The player’s joints constantly ache.",
 			"n": 98
 		}, {
 			"desc": "The blow sends a shockwave through your right side, ruining your liver. You take a -4 to CON saves to resist poison, and when consuming alcohol the CON check is treated as if you had drank twice as much.",
@@ -304,7 +304,7 @@
 			"n": 100
 		}
 	],
-	"version": 1,
+	"version": 2,
 	"tableName": "Zero HP Injuries",
 	"sourceUrl": "http://dndspeak.com/2018/02/100-zero-hp-injuries/",
 	"source": "dndspeak"

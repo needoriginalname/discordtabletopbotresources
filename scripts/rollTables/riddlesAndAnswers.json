@@ -3,7 +3,7 @@
 	"category": ["puzzles"],
 	"sourceUrl": "http://dndspeak.com/2018/11/100-riddles-and-their-answers/",
 	"isNumbered": true,
-	"version": 1,
+	"version": 2,
 	"source": "dndspeak",
 	"entries": [{
 			"desc": "It has a golden head. It has a golden tail. It has no body. **Answer:** A gold coin.",
@@ -81,7 +81,7 @@
 			"desc": "What has four legs in the morning, two legs in the afternoon and three legs in the evening? **Answer:** A Man. when he was a child he crawled on all four, when he was older, he walked on two legs and when he was old aged, he used a cane.",
 			"n": 25
 		}, {
-			"desc": "I\u2019m made out of five letters, And I\u2019m made out of seven letters; I have keys but I don\u2019t have locks, I\u2019m concerned with time, but not with clocks. **Answer:** A Piano.",
+			"desc": "I'm made out of five letters, And I'm made out of seven letters; I have keys but I don't have locks, I'm concerned with time, but not with clocks. **Answer:** A Piano.",
 			"n": 26
 		}, {
 			"desc": "Forty white horses on a red hill. They champ, they stamp, and then stand still. **Answer:** Teeth.",
@@ -162,7 +162,7 @@
 			"desc": "You keep it, but it never ages. Once shared it is gone forever. **Answer:** Secret.",
 			"n": 52
 		}, {
-			"desc": "I can bring down the mightiest of men. Nobody can defy me. I am the enemy of flight. Yet you can\u2019t even sense my presence. What am I? **Answer:** Gravity",
+			"desc": "I can bring down the mightiest of men. Nobody can defy me. I am the enemy of flight. Yet you can't even sense my presence. What am I? **Answer:** Gravity",
 			"n": 53
 		}, {
 			"desc": "The more you walk on me the more we get along, and while other may still use me, with you is where I belong. What am I? **Answer:** Shoes",
@@ -207,7 +207,7 @@
 			"desc": "Halo of water, tongue of wood, skin of stone and long I've stood. My fingers short reach to the sky, inside my heart men live and die. What am I? **Answer:** Castle",
 			"n": 67
 		}, {
-			"desc": "Flying on invisible wings. I am massive in size. Then if my master commands, I am as small as he wishes. All men wish to own me, but when I touch them, They cannot touch me. I cry when I am with my brothers. Darkness follows wherever I go. I\u2019m a friend, I\u2019m an enemy. I am freedom. What am I? **Answer:** A Cloud",
+			"desc": "Flying on invisible wings. I am massive in size. Then if my master commands, I am as small as he wishes. All men wish to own me, but when I touch them, They cannot touch me. I cry when I am with my brothers. Darkness follows wherever I go. I'm a friend, I'm an enemy. I am freedom. What am I? **Answer:** A Cloud",
 			"n": 68
 		}, {
 			"desc": "A face I do have, but see I do not. When they see my hands, they oft ponder in thought **Answer:** A watch",
